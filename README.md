@@ -19,3 +19,20 @@ Requests
 --------
 
 Initial release contains just a fraction of Altcoins. If you're missing your cryptocoin, please let me know so I can include it in next release (you can do so here or hit me at Twitter @AllienWorks).
+
+Author
+------
+
+**Martin Allien**
+
+* Website: [allienworks.net](http://allienworks.net)
+
+Follow for updates and more stuff:
+
+* Twitter: [@AllienWorks](http://twitter.com/AllienWorks)
+* Google+: [+AllienWorksNet](http://google.com/+AllienWorksNet)
+
+Licence
+-------
+
+Released under GNU GPL v2.0
