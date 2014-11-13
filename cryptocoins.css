@@ -1,0 +1,88 @@
+@font-face {
+	font-family: 'Cryptocoins';
+	src:url('fonts/Cryptocoins.eot?-sy9472');
+	src:url('fonts/Cryptocoins.eot?#iefix-sy9472') format('embedded-opentype'),
+		url('fonts/Cryptocoins.woff?-sy9472') format('woff'),
+		url('fonts/Cryptocoins.ttf?-sy9472') format('truetype'),
+		url('fonts/Cryptocoins.svg?-sy9472#Cryptocoins') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+i {
+	font-family: 'Cryptocoins';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.cc-BTC:before {
+	content: "\e600";
+}
+.cc-BTC-alt:before {
+	content: "\e601";
+}
+.cc-BTSX:before {
+	content: "\e602";
+}
+.cc-BTSX-alt:before {
+	content: "\e603";
+}
+.cc-DOGE:before {
+	content: "\e604";
+}
+.cc-DOGE-alt:before {
+	content: "\e605";
+}
+.cc-DRK:before {
+	content: "\e606";
+}
+.cc-DRK-alt:before {
+	content: "\e607";
+}
+.cc-LTC:before {
+	content: "\e608";
+}
+.cc-LTC-alt:before {
+	content: "\e609";
+}
+.cc-NMC:before {
+	content: "\e60a";
+}
+.cc-NMC-alt:before {
+	content: "\e60b";
+}
+.cc-NXT:before {
+	content: "\e60c";
+}
+.cc-NXT-alt:before {
+	content: "\e60d";
+}
+.cc-PPC:before {
+	content: "\e60e";
+}
+.cc-PPC-alt:before {
+	content: "\e60f";
+}
+.cc-XCP:before {
+	content: "\e610";
+}
+.cc-XCP-alt:before {
+	content: "\e611";
+}
+.cc-XMR:before {
+	content: "\e612";
+}
+.cc-XRP:before {
+	content: "\e613";
+}
+.cc-XRP-alt:before {
+	content: "\e614";
+}
