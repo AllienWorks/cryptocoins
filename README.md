@@ -24,6 +24,7 @@ Updates
 -------
 
 **1.1** – Stellar (STR), FuelCoin (FC2), BanxShares (BANX), NuBits/NuShares (NBT/NSR), BitcoinDark (BTCD), YbCoin (YBC), BlackCoin (BC), Mastercoin (MSC), Feathercoin (FTC), Sync (SYNC), PotCoin (POT), OpalCoin (OPAL), Shadow (SDC)
+
 **1.0** – Bitcoin (BTC), Litecoin (LTC), Namecoin (NMC), Dogecoin (DOGE), Peercoin (PPC), Darkcoin (DRK), Ripple (XRP), Bitshares (BTSX), Counterparty (XCP), NXT (NXT), Monero (XMR)
 
 Author
