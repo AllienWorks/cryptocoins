@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Cryptocoins';
-	src:url('fonts/Cryptocoins.eot?-egk1o');
-	src:url('fonts/Cryptocoins.eot?#iefix-egk1o') format('embedded-opentype'),
-		url('fonts/Cryptocoins.woff?-egk1o') format('woff'),
-		url('fonts/Cryptocoins.ttf?-egk1o') format('truetype'),
-		url('fonts/Cryptocoins.svg?-egk1o#Cryptocoins') format('svg');
+	src:url('fonts/Cryptocoins.eot?-9nnejh');
+	src:url('fonts/Cryptocoins.eot?#iefix-9nnejh') format('embedded-opentype'),
+		url('fonts/Cryptocoins.woff?-9nnejh') format('woff'),
+		url('fonts/Cryptocoins.ttf?-9nnejh') format('truetype'),
+		url('fonts/Cryptocoins.svg?-9nnejh#Cryptocoins') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,6 +23,60 @@ i {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.cc-BCN:before {
+	content: "\e602";
+}
+.cc-BCN-alt:before {
+	content: "\e603";
+}
+.cc-BTS:before {
+	content: "\e62e";
+}
+.cc-BTS-alt:before {
+	content: "\e62f";
+}
+.cc-GRC:before {
+	content: "\e630";
+}
+.cc-GRC-alt:before {
+	content: "\e631";
+}
+.cc-KORE:before {
+	content: "\e632";
+}
+.cc-KORE-alt:before {
+	content: "\e633";
+}
+.cc-MAID:before {
+	content: "\e634";
+}
+.cc-MAID-alt:before {
+	content: "\e635";
+}
+.cc-QRK:before {
+	content: "\e636";
+}
+.cc-QRK-alt:before {
+	content: "\e637";
+}
+.cc-UNITY:before {
+	content: "\e638";
+}
+.cc-UNITY-alt:before {
+	content: "\e639";
+}
+.cc-VIOR:before {
+	content: "\e63a";
+}
+.cc-VIOR-alt:before {
+	content: "\e63b";
+}
+.cc-VPN:before {
+	content: "\e63c";
+}
+.cc-VPN-alt:before {
+	content: "\e63d";
+}
 .cc-BANX:before {
 	content: "\e615";
 }
@@ -103,12 +157,6 @@ i {
 }
 .cc-BTC-alt:before {
 	content: "\e601";
-}
-.cc-BTSX:before {
-	content: "\e602";
-}
-.cc-BTSX-alt:before {
-	content: "\e603";
 }
 .cc-DOGE:before {
 	content: "\e604";
