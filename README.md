@@ -15,10 +15,12 @@ Available at official website: [labs.allienworks.net/icons/cryptocoins](http://l
 Requests
 --------
 
-Initial release contains just a fraction of Altcoins. If you're missing your cryptocoin, please let me know so I can include it in next release (you can do so here or hit me at Twitter @AllienWorks).
+Initial release contains just a fraction of Altcoins. If you're missing your cryptocoin, please let me know so I can include it in next release (you can do so here or hit me at Twitter [@AllienWorks](http://twitter.com/AllienWorks)).
 
 Updates
 -------
+
+**1.2.1** – Added optional cryptocoins-colors.css for coloring all icons/coins
 
 **1.2** – Bytecoin (BCN), Gridcoin (GRC), KoreCoin (KORE), MaidSafeCoin (MAID), Quark (QRK), SuperNET (UNITY), Viorcoin (VIOR), VPN coin (VPN) + updated BitShares (BTSX => BTS)
 
