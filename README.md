@@ -6,8 +6,8 @@ Cryptocoins
 Available both in pure vector SVG and webfont formats for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
 
 
-Installation & Docs
--------------------
+Installation, Docs & Demo
+-------------------------
 
 Available at official website: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins)
 
@@ -19,6 +19,8 @@ Initial release contains just a fraction of Altcoins. If you're missing your cry
 
 Updates
 -------
+
+**1.3** – Darkcoin => Dash, Infinitecoin (IFC), Vertcoin (VTC), NEM (XEM), DNotes (NOTE), Rimbit (RBT), GetGems (GEMZ), VeriCoin (VRC), ARCHcoin (ARCH), BitStake (XBS)
 
 **1.2.1** – Added optional cryptocoins-colors.css for coloring all icons/coins
 
