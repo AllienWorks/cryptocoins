@@ -9,13 +9,14 @@ Available both in pure vector SVG and webfont formats for taking advantage of sm
 Installation, Docs & Demo
 -------------------------
 
-Available at official website: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins)
+Demo: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins)
+Download & more info: [allienworks.net/products/cryptocoins](https://allienworks.net/products/cryptocoins/)
 
 
 Requests
 --------
 
-Initial release contains just a fraction of Altcoins. If you're missing your cryptocoin, please let me know so I can include it in next release (you can do so here or hit me at Twitter [@AllienWorks](http://twitter.com/AllienWorks)).
+Initial release contains just a fraction of Altcoins. If you're missing your cryptocoin, please let me know so I can include it in next release (you can do so here or hit me at Twitter [@AllienWorks](https://twitter.com/AllienWorks)).
 
 Updates
 -------
@@ -35,12 +36,12 @@ Author
 
 **Martin Allien**
 
-* Website: [allienworks.net](http://allienworks.net)
+* Website: [allienworks.net](https://allienworks.net)
 
 Follow for updates and more stuff:
 
-* Twitter: [@AllienWorks](http://twitter.com/AllienWorks)
-* Google+: [+AllienWorksNet](http://google.com/+AllienWorksNet)
+* Twitter: [@AllienWorks](https://twitter.com/AllienWorks)
+* Google+: [+AllienWorksNet](https://google.com/+AllienWorksNet)
 
 Licence
 -------
