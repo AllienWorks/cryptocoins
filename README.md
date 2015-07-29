@@ -9,8 +9,8 @@ Available both in pure vector SVG and webfont formats for taking advantage of sm
 Installation, Docs & Demo
 -------------------------
 
-Demo: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins)
-Download & more info: [allienworks.net/products/cryptocoins](https://allienworks.net/products/cryptocoins/)
+* **Demo**: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins)
+* **Download**: [allienworks.net/products/cryptocoins](https://allienworks.net/products/cryptocoins/)
 
 
 Requests
@@ -38,6 +38,11 @@ Author
 
 * Website: [allienworks.net](https://allienworks.net)
 
+Tip me crypto and **support further development**:
+
+* BTC: ```1C6X5hRdmiKB8HCWuYB9vvtVCrRKN5vTnH```
+* SDC: ```SjQb4RopPHKvpwQitGGZHqeRkyFPMbKpNP```
+
 Follow for updates and more stuff:
 
 * Twitter: [@AllienWorks](https://twitter.com/AllienWorks)
@@ -46,4 +51,4 @@ Follow for updates and more stuff:
 Licence
 -------
 
-Released under GNU GPL v2.0
+Released under [GNU GPL v2.0](LICENCE)
