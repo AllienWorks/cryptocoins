@@ -21,15 +21,14 @@ Initial release contains just a fraction of Altcoins. If you're missing your cry
 Updates
 -------
 
-**1.3** – Darkcoin => Dash, Infinitecoin (IFC), Vertcoin (VTC), NEM (XEM), DNotes (NOTE), Rimbit (RBT), GetGems (GEMZ), VeriCoin (VRC), ARCHcoin (ARCH), BitStake (XBS)
-
-**1.2.1** – Added optional cryptocoins-colors.css for coloring all icons/coins
-
-**1.2** – Bytecoin (BCN), Gridcoin (GRC), KoreCoin (KORE), MaidSafeCoin (MAID), Quark (QRK), SuperNET (UNITY), Viorcoin (VIOR), VPN coin (VPN) + updated BitShares (BTSX => BTS)
-
-**1.1** – Stellar (STR), FuelCoin (FC2), BanxShares (BANX), NuBits/NuShares (NBT/NSR), BitcoinDark (BTCD), YbCoin (YBC), BlackCoin (BC), Mastercoin (MSC), Feathercoin (FTC), Sync (SYNC), PotCoin (POT), OpalCoin (OPAL), Shadow (SDC)
-
-**1.0** – Bitcoin (BTC), Litecoin (LTC), Namecoin (NMC), Dogecoin (DOGE), Peercoin (PPC), Darkcoin (DRK), Ripple (XRP), Bitshares (BTSX), Counterparty (XCP), NXT (NXT), Monero (XMR)
+| Version | Changes |
+| :------ | :------ |
+| **1.4** | added BitBay (BAY), Diamond (DMD), Frako (FRK), I/O Coin (IOC), LiteDoge (LDOGE), MasterTraderCoin (MTR), Monetary Unit (MUE), Sapience AIFX (XAI), Primecoin (XPM), updated BitStake (XBS) |
+| **1.3** | updated Darkcoin → Dash, added Infinitecoin (IFC), Vertcoin (VTC), NEM (XEM), DNotes (NOTE), Rimbit (RBT), GetGems (GEMZ), VeriCoin (VRC), ARCHcoin (ARCH), BitStake (XBS) |
+| **1.2.1** | added optional ```cryptocoins-colors.css``` for coloring all icons/coins |
+| **1.2** | added Bytecoin (BCN), Gridcoin (GRC), KoreCoin (KORE), MaidSafeCoin (MAID), Quark (QRK), SuperNET (UNITY), Viorcoin (VIOR), VPN coin (VPN) + updated BitShares (BTSX → BTS) |
+| **1.1** | added Stellar (STR), FuelCoin (FC2), BanxShares (BANX), NuBits/NuShares (NBT/NSR), BitcoinDark (BTCD), YbCoin (YBC), BlackCoin (BC), Mastercoin (MSC), Feathercoin (FTC), Sync (SYNC), PotCoin (POT), OpalCoin (OPAL), Shadow (SDC) |
+| **1.0** | added Bitcoin (BTC), Litecoin (LTC), Namecoin (NMC), Dogecoin (DOGE), Peercoin (PPC), Darkcoin (DRK), Ripple (XRP), Bitshares (BTSX), Counterparty (XCP), NXT (NXT), Monero (XMR) |
 
 Author
 ------
@@ -40,8 +39,9 @@ Author
 
 Tip me crypto and **support further development**:
 
-* BTC: ```1C6X5hRdmiKB8HCWuYB9vvtVCrRKN5vTnH```
+* BTC: ```3QsuYhfTiZamrsVX4oKxdnQ8P8wq62k4GR```
 * SDC: ```SjQb4RopPHKvpwQitGGZHqeRkyFPMbKpNP```
+* IOC: ```iVVu3d6uGtEvKMZafDX1javenJ1M2pfpmr```
 
 Follow for updates and more stuff:
 
