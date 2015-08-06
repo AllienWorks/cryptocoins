@@ -23,7 +23,7 @@ Updates
 
 | Version | Changes |
 | :------ | :------ |
-| **1.4** | added BitBay (BAY), Diamond (DMD), Frako (FRK), I/O Coin (IOC), LiteDoge (LDOGE), MasterTraderCoin (MTR), Monetary Unit (MUE), Sapience AIFX (XAI), Primecoin (XPM), updated BitStake (XBS) |
+| **1.4** | added BitBay (BAY), Diamond (DMD), Franko (FRK), I/O Coin (IOC), LiteDoge (LDOGE), MasterTraderCoin (MTR), Monetary Unit (MUE), Sapience AIFX (XAI), Primecoin (XPM), updated BitStake (XBS) |
 | **1.3** | updated Darkcoin → Dash, added Infinitecoin (IFC), Vertcoin (VTC), NEM (XEM), DNotes (NOTE), Rimbit (RBT), GetGems (GEMZ), VeriCoin (VRC), ARCHcoin (ARCH), BitStake (XBS) |
 | **1.2.1** | added optional ```cryptocoins-colors.css``` for coloring all icons/coins |
 | **1.2** | added Bytecoin (BCN), Gridcoin (GRC), KoreCoin (KORE), MaidSafeCoin (MAID), Quark (QRK), SuperNET (UNITY), Viorcoin (VIOR), VPN coin (VPN) + updated BitShares (BTSX → BTS) |
