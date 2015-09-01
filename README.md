@@ -5,6 +5,7 @@ Cryptocoins
 
 Available both in pure vector SVG and webfont formats for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
 
+![Cryptocoins Preview](cryptocoins-preview.png)
 
 Installation, Docs & Demo
 -------------------------
@@ -36,12 +37,12 @@ Author
 **Martin Allien**
 
 * Website: [allienworks.net](https://allienworks.net)
+* Keybase: [martin_allien](https://keybase.io/martin_allien)
 
 Tip me crypto and **support further development**:
 
 * BTC: ```3QsuYhfTiZamrsVX4oKxdnQ8P8wq62k4GR```
 * SDC: ```SjQb4RopPHKvpwQitGGZHqeRkyFPMbKpNP```
-* IOC: ```iVVu3d6uGtEvKMZafDX1javenJ1M2pfpmr```
 
 Follow for updates and more stuff:
 
