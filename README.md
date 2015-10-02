@@ -41,8 +41,8 @@ Author
 
 Tip me crypto and **support further development**:
 
-* BTC: ```3QsuYhfTiZamrsVX4oKxdnQ8P8wq62k4GR```
-* SDC: ```SjQb4RopPHKvpwQitGGZHqeRkyFPMbKpNP```
+* [Bitcoin](https://bitcoin.org/en/): ```375iKrMLRcstDqR4g45mZ7ZiVdQSJ68pXB```
+* [ShadowCash](http://aboutshadow.com/): ```SWFjyg5kMzgbKXgydwrf6cy86aXcZpe1LJ```
 
 Follow for updates and more stuff:
 
