@@ -24,6 +24,7 @@ Updates
 
 | Version | Changes |
 | :------ | :------ |
+| **1.5** | added DigiByte (DGB), DogeCoinDark (DOGED), EmerCoin (EMC), Ethereum (ETH), MintCoin (MINT), MonaCoin (MONA), MicroCoin (MRC), NeuCoin (NEU), Novacoin (NVC), Rubycoin (RBY), updated BitBay |
 | **1.4** | added BitBay (BAY), Diamond (DMD), Franko (FRK), I/O Coin (IOC), LiteDoge (LDOGE), MasterTraderCoin (MTR), Monetary Unit (MUE), Sapience AIFX (XAI), Primecoin (XPM), updated BitStake (XBS) |
 | **1.3** | updated Darkcoin → Dash, added Infinitecoin (IFC), Vertcoin (VTC), NEM (XEM), DNotes (NOTE), Rimbit (RBT), GetGems (GEMZ), VeriCoin (VRC), ARCHcoin (ARCH), BitStake (XBS) |
 | **1.2.1** | added optional ```cryptocoins-colors.css``` for coloring all icons/coins |
@@ -43,6 +44,9 @@ Tip me crypto and **support further development**:
 
 * [Bitcoin](https://bitcoin.org/en/): ```375iKrMLRcstDqR4g45mZ7ZiVdQSJ68pXB```
 * [ShadowCash](http://aboutshadow.com/): ```SWFjyg5kMzgbKXgydwrf6cy86aXcZpe1LJ```
+* [Peercoin](https://peercoin.net/): ```PGVCU6UbszgTJggS9WZJvmPVozC5BLpgXv```
+* [Litecoin](https://litecoin.org/): ```LeTM44L6pLTxtALDjETrihyZ9dHL1w2sty```
+* [Dogecoin](http://dogecoin.com/): ```D8FdK5FR9QeRj4eFBEdK55ytz38L8MhsvP```
 
 Follow for updates and more stuff:
 

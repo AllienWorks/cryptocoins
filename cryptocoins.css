@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'cryptocoins';
-	src:url('fonts/cryptocoins.eot?usp6y7');
-	src:url('fonts/cryptocoins.eot?#iefixusp6y7') format('embedded-opentype'),
-		url('fonts/cryptocoins.ttf?usp6y7') format('truetype'),
-		url('fonts/cryptocoins.woff?usp6y7') format('woff'),
-		url('fonts/cryptocoins.svg?usp6y7#cryptocoins') format('svg');
+	src:url('fonts/Cryptocoins.eot?rzfeis');
+	src:url('fonts/Cryptocoins.eot?rzfeis#iefix') format('embedded-opentype'),
+		url('fonts/Cryptocoins.ttf?rzfeis') format('truetype'),
+		url('fonts/Cryptocoins.woff?rzfeis') format('woff'),
+		url('fonts/Cryptocoins.svg?rzfeis#cryptocoins') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,294 +23,355 @@ i {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.cc-XRP:before {
-	content: "\e600";
-}
-.cc-XMR:before {
-	content: "\e601";
-}
-.cc-XPM:before {
-	content: "\e602";
-}
-.cc-XPM-alt:before {
-	content: "\e603";
-}
-.cc-XRP-alt:before {
-	content: "\e604";
-}
-.cc-YBC:before {
-	content: "\e605";
-}
-.cc-YBC-alt:before {
-	content: "\e606";
-}
-.cc-XCP:before {
-	content: "\e607";
-}
-.cc-XCP-alt:before {
-	content: "\e608";
-}
-.cc-XEM:before {
-	content: "\e609";
-}
-.cc-XEM-alt:before {
-	content: "\e60a";
-}
-.cc-SYNC:before {
-	content: "\e60b";
-}
-.cc-SYNC-alt:before {
-	content: "\e60c";
-}
-.cc-UNITY:before {
-	content: "\e60d";
-}
-.cc-UNITY-alt:before {
-	content: "\e60e";
-}
-.cc-VIOR:before {
-	content: "\e60f";
-}
-.cc-VIOR-alt:before {
-	content: "\e610";
-}
-.cc-VPN:before {
-	content: "\e611";
-}
-.cc-VPN-alt:before {
-	content: "\e612";
-}
-.cc-VRC:before {
-	content: "\e613";
-}
-.cc-VRC-alt:before {
-	content: "\e614";
-}
-.cc-VTC:before {
-	content: "\e615";
-}
-.cc-VTC-alt:before {
-	content: "\e616";
-}
-.cc-XAI:before {
-	content: "\e617";
-}
-.cc-XAI-alt:before {
-	content: "\e618";
-}
-.cc-XBS:before {
-	content: "\e619";
-}
-.cc-XBS-alt:before {
-	content: "\e61a";
-}
-.cc-NOTE:before {
-	content: "\e61b";
-}
-.cc-NOTE-alt:before {
-	content: "\e61c";
-}
-.cc-NXT:before {
-	content: "\e61d";
-}
-.cc-NXT-alt:before {
-	content: "\e61e";
-}
-.cc-OPAL:before {
-	content: "\e61f";
-}
-.cc-OPAL-alt:before {
-	content: "\e620";
-}
-.cc-POT:before {
-	content: "\e621";
-}
-.cc-POT-alt:before {
-	content: "\e622";
-}
-.cc-PPC:before {
-	content: "\e623";
-}
-.cc-PPC-alt:before {
-	content: "\e624";
-}
-.cc-QRK:before {
-	content: "\e625";
-}
-.cc-QRK-alt:before {
-	content: "\e626";
-}
-.cc-RBT:before {
-	content: "\e627";
-}
-.cc-RBT-alt:before {
-	content: "\e628";
-}
-.cc-SDC:before {
-	content: "\e629";
-}
-.cc-SDC-alt:before {
-	content: "\e62a";
-}
-.cc-STR:before {
-	content: "\e62b";
-}
-.cc-STR-alt:before {
-	content: "\e62c";
-}
-.cc-KORE:before {
-	content: "\e62d";
-}
-.cc-KORE-alt:before {
-	content: "\e62e";
-}
-.cc-LDOGE:before {
-	content: "\e62f";
-}
-.cc-LDOGE-alt:before {
-	content: "\e630";
-}
-.cc-LTC:before {
-	content: "\e631";
-}
-.cc-LTC-alt:before {
-	content: "\e632";
-}
-.cc-MAID:before {
-	content: "\e633";
-}
-.cc-MAID-alt:before {
-	content: "\e634";
-}
-.cc-MSC:before {
-	content: "\e635";
-}
-.cc-MSC-alt:before {
-	content: "\e636";
-}
-.cc-MTR:before {
-	content: "\e637";
-}
-.cc-MTR-alt:before {
-	content: "\e638";
-}
-.cc-MUE:before {
-	content: "\e639";
-}
-.cc-MUE-alt:before {
-	content: "\e63a";
-}
-.cc-NBT:before {
-	content: "\e63b";
-}
-.cc-NMC:before {
-	content: "\e63c";
-}
-.cc-NMC-alt:before {
-	content: "\e63d";
-}
-.cc-DMD:before {
-	content: "\e63e";
-}
-.cc-DMD-alt:before {
-	content: "\e63f";
-}
-.cc-DOGE:before {
-	content: "\e640";
-}
-.cc-DOGE-alt:before {
-	content: "\e641";
-}
-.cc-FC2:before {
-	content: "\e642";
-}
-.cc-FC2-alt:before {
-	content: "\e643";
-}
-.cc-FRK:before {
-	content: "\e644";
-}
-.cc-FRK-alt:before {
-	content: "\e645";
-}
-.cc-FTC:before {
-	content: "\e646";
-}
-.cc-FTC-alt:before {
-	content: "\e647";
-}
-.cc-GEMZ:before {
-	content: "\e648";
-}
-.cc-GEMZ-alt:before {
-	content: "\e649";
-}
-.cc-GRC:before {
-	content: "\e64a";
-}
-.cc-GRC-alt:before {
-	content: "\e64b";
-}
-.cc-IFC:before {
-	content: "\e64c";
-}
-.cc-IFC-alt:before {
-	content: "\e64d";
-}
-.cc-IOC:before {
-	content: "\e64e";
-}
-.cc-IOC-alt:before {
-	content: "\e64f";
+.cc-DOGED:before {
+	content: "\e900";
+}
+.cc-DOGED-alt:before {
+	content: "\e901";
 }
 .cc-ARCH:before {
-	content: "\e650";
+	content: "\e902";
 }
 .cc-ARCH-alt:before {
-	content: "\e651";
+	content: "\e903";
 }
 .cc-BANX:before {
-	content: "\e652";
+	content: "\e904";
 }
 .cc-BANX-alt:before {
-	content: "\e653";
+	content: "\e905";
 }
 .cc-BAY:before {
-	content: "\e654";
+	content: "\e906";
+}
+.cc-BAY-alt:before {
+	content: "\e907";
 }
 .cc-BC:before {
-	content: "\e655";
+	content: "\e908";
 }
 .cc-BC-alt:before {
-	content: "\e656";
+	content: "\e909";
 }
 .cc-BCN:before {
-	content: "\e657";
+	content: "\e90a";
 }
 .cc-BCN-alt:before {
-	content: "\e658";
+	content: "\e90b";
 }
 .cc-BTC:before {
-	content: "\e659";
+	content: "\e90c";
 }
 .cc-BTC-alt:before {
-	content: "\e65a";
+	content: "\e90d";
 }
 .cc-BTCD:before {
-	content: "\e65b";
+	content: "\e90e";
 }
 .cc-BTCD-alt:before {
-	content: "\e65c";
+	content: "\e90f";
 }
 .cc-BTS:before {
-	content: "\e65d";
+	content: "\e910";
 }
 .cc-BTS-alt:before {
-	content: "\e65e";
+	content: "\e911";
 }
 .cc-DASH:before {
-	content: "\e65f";
+	content: "\e912";
 }
 .cc-DASH-alt:before {
-	content: "\e660";
+	content: "\e913";
 }
+.cc-DGB:before {
+	content: "\e914";
+}
+.cc-DGB-alt:before {
+	content: "\e915";
+}
+.cc-DMD:before {
+	content: "\e916";
+}
+.cc-DMD-alt:before {
+	content: "\e917";
+}
+.cc-DOGE:before {
+	content: "\e918";
+}
+.cc-DOGE-alt:before {
+	content: "\e919";
+}
+.cc-EMC:before {
+	content: "\e91a";
+}
+.cc-EMC-alt:before {
+	content: "\e91b";
+}
+.cc-ETH:before {
+	content: "\e91c";
+}
+.cc-ETH-alt:before {
+	content: "\e91d";
+}
+.cc-FC2:before {
+	content: "\e91e";
+}
+.cc-FC2-alt:before {
+	content: "\e91f";
+}
+.cc-FRK:before {
+	content: "\e920";
+}
+.cc-FRK-alt:before {
+	content: "\e921";
+}
+.cc-FTC:before {
+	content: "\e922";
+}
+.cc-FTC-alt:before {
+	content: "\e923";
+}
+.cc-GEMZ:before {
+	content: "\e924";
+}
+.cc-GEMZ-alt:before {
+	content: "\e925";
+}
+.cc-GRC:before {
+	content: "\e926";
+}
+.cc-GRC-alt:before {
+	content: "\e927";
+}
+.cc-IFC:before {
+	content: "\e928";
+}
+.cc-IFC-alt:before {
+	content: "\e929";
+}
+.cc-IOC:before {
+	content: "\e92a";
+}
+.cc-IOC-alt:before {
+	content: "\e92b";
+}
+.cc-KORE:before {
+	content: "\e92c";
+}
+.cc-KORE-alt:before {
+	content: "\e92d";
+}
+.cc-LDOGE:before {
+	content: "\e92e";
+}
+.cc-LDOGE-alt:before {
+	content: "\e92f";
+}
+.cc-LTC:before {
+	content: "\e930";
+}
+.cc-LTC-alt:before {
+	content: "\e931";
+}
+.cc-MAID:before {
+	content: "\e932";
+}
+.cc-MAID-alt:before {
+	content: "\e933";
+}
+.cc-MINT:before {
+	content: "\e934";
+}
+.cc-MINT-alt:before {
+	content: "\e935";
+}
+.cc-MONA:before {
+	content: "\e936";
+}
+.cc-MONA-alt:before {
+	content: "\e937";
+}
+.cc-MRC:before {
+	content: "\e938";
+}
+.cc-MSC:before {
+	content: "\e939";
+}
+.cc-MSC-alt:before {
+	content: "\e93a";
+}
+.cc-MTR:before {
+	content: "\e93b";
+}
+.cc-MTR-alt:before {
+	content: "\e93c";
+}
+.cc-MUE:before {
+	content: "\e93d";
+}
+.cc-MUE-alt:before {
+	content: "\e93e";
+}
+.cc-NBT:before {
+	content: "\e93f";
+}
+.cc-NEU:before {
+	content: "\e940";
+}
+.cc-NEU-alt:before {
+	content: "\e941";
+}
+.cc-NMC:before {
+	content: "\e942";
+}
+.cc-NMC-alt:before {
+	content: "\e943";
+}
+.cc-NOTE:before {
+	content: "\e944";
+}
+.cc-NOTE-alt:before {
+	content: "\e945";
+}
+.cc-NVC:before {
+	content: "\e946";
+}
+.cc-NVC-alt:before {
+	content: "\e947";
+}
+.cc-NXT:before {
+	content: "\e948";
+}
+.cc-NXT-alt:before {
+	content: "\e949";
+}
+.cc-OPAL:before {
+	content: "\e94a";
+}
+.cc-OPAL-alt:before {
+	content: "\e94b";
+}
+.cc-POT:before {
+	content: "\e94c";
+}
+.cc-POT-alt:before {
+	content: "\e94d";
+}
+.cc-PPC:before {
+	content: "\e94e";
+}
+.cc-PPC-alt:before {
+	content: "\e94f";
+}
+.cc-QRK:before {
+	content: "\e950";
+}
+.cc-QRK-alt:before {
+	content: "\e951";
+}
+.cc-RBT:before {
+	content: "\e952";
+}
+.cc-RBT-alt:before {
+	content: "\e953";
+}
+.cc-RBY:before {
+	content: "\e954";
+}
+.cc-RBY-alt:before {
+	content: "\e955";
+}
+.cc-SDC:before {
+	content: "\e956";
+}
+.cc-SDC-alt:before {
+	content: "\e957";
+}
+.cc-STR:before {
+	content: "\e958";
+}
+.cc-STR-alt:before {
+	content: "\e959";
+}
+.cc-SYNC:before {
+	content: "\e95a";
+}
+.cc-SYNC-alt:before {
+	content: "\e95b";
+}
+.cc-UNITY:before {
+	content: "\e95c";
+}
+.cc-UNITY-alt:before {
+	content: "\e95d";
+}
+.cc-VIOR:before {
+	content: "\e95e";
+}
+.cc-VIOR-alt:before {
+	content: "\e95f";
+}
+.cc-VPN:before {
+	content: "\e960";
+}
+.cc-VPN-alt:before {
+	content: "\e961";
+}
+.cc-VRC:before {
+	content: "\e962";
+}
+.cc-VRC-alt:before {
+	content: "\e963";
+}
+.cc-VTC:before {
+	content: "\e964";
+}
+.cc-VTC-alt:before {
+	content: "\e965";
+}
+.cc-XAI:before {
+	content: "\e966";
+}
+.cc-XAI-alt:before {
+	content: "\e967";
+}
+.cc-XBS:before {
+	content: "\e968";
+}
+.cc-XBS-alt:before {
+	content: "\e969";
+}
+.cc-XCP:before {
+	content: "\e96a";
+}
+.cc-XCP-alt:before {
+	content: "\e96b";
+}
+.cc-XEM:before {
+	content: "\e96c";
+}
+.cc-XEM-alt:before {
+	content: "\e96d";
+}
+.cc-XMR:before {
+	content: "\e96e";
+}
+.cc-XPM:before {
+	content: "\e96f";
+}
+.cc-XPM-alt:before {
+	content: "\e970";
+}
+.cc-XRP:before {
+	content: "\e971";
+}
+.cc-XRP-alt:before {
+	content: "\e972";
+}
+.cc-YBC:before {
+	content: "\e973";
+}
+.cc-YBC-alt:before {
+	content: "\e974";
+}
+
