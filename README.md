@@ -44,9 +44,7 @@ Tip me crypto and **support further development**:
 
 * [Bitcoin](https://bitcoin.org/en/): ```375iKrMLRcstDqR4g45mZ7ZiVdQSJ68pXB```
 * [ShadowCash](http://aboutshadow.com/): ```SWFjyg5kMzgbKXgydwrf6cy86aXcZpe1LJ```
-* [Peercoin](https://peercoin.net/): ```PGVCU6UbszgTJggS9WZJvmPVozC5BLpgXv```
-* [Litecoin](https://litecoin.org/): ```LeTM44L6pLTxtALDjETrihyZ9dHL1w2sty```
-* [Dogecoin](http://dogecoin.com/): ```D8FdK5FR9QeRj4eFBEdK55ytz38L8MhsvP```
+* [Dogecoin](http://dogecoin.com/): ```DCiHP5CnNv6czXGpZY9XNtwojvkD9S3ZqJ```
 
 Follow for updates and more stuff:
 
