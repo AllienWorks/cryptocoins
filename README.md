@@ -42,9 +42,11 @@ Author
 
 Tip me crypto and **support further development**:
 
-* [Bitcoin](https://bitcoin.org/en/): ```375iKrMLRcstDqR4g45mZ7ZiVdQSJ68pXB```
-* [ShadowCash](http://aboutshadow.com/): ```SWFjyg5kMzgbKXgydwrf6cy86aXcZpe1LJ```
-* [Dogecoin](http://dogecoin.com/): ```DCiHP5CnNv6czXGpZY9XNtwojvkD9S3ZqJ```
+* [Bitcoin](https://bitcoin.org/en): ```1MByfmAdyRFr3qxMh2cspX5RsxS4FKjMmH```
+* [ShadowCash](http://aboutshadow.com): ```SScnhyH7GGH2UxRm4SFZg7epK3yDJA59fb```
+* [Verge](http://vergecurrency.com): ```DBT5xkoy5dbYULkNxezL8FpinyfTvpVeTe```
+* [Blackcoin](http://blackcoin.co): ```B9oLoQMsTCztEbwd9nHQxdJWKuv62aNuze```
+* [Litecoin](https://litecoin.org): ```LQ5AMQDu3BTWHM2VDzyfv8Msej7NrMZLFH```
 
 Follow for updates and more stuff:
 
