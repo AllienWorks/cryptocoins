@@ -1,377 +1,477 @@
 @font-face {
-	font-family: 'cryptocoins';
-	src:url('fonts/Cryptocoins.eot?rzfeis');
-	src:url('fonts/Cryptocoins.eot?rzfeis#iefix') format('embedded-opentype'),
-		url('fonts/Cryptocoins.ttf?rzfeis') format('truetype'),
-		url('fonts/Cryptocoins.woff?rzfeis') format('woff'),
-		url('fonts/Cryptocoins.svg?rzfeis#cryptocoins') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'cryptocoins';
+    src:    url('fonts/cryptocoins.eot?rup5ih');
+    src:    url('fonts/cryptocoins.eot?rup5ih#iefix') format('embedded-opentype'),
+        url('fonts/cryptocoins.ttf?rup5ih') format('truetype'),
+        url('fonts/cryptocoins.woff?rup5ih') format('woff'),
+        url('fonts/cryptocoins.svg?rup5ih#cryptocoins') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 i {
-	font-family: 'cryptocoins';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'cryptocoins' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
 
-	/* Better Font Rendering =========== */
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
-.cc-DOGED:before {
-	content: "\e900";
+.cc-SYS:before {
+    content: "\e992";
 }
-.cc-DOGED-alt:before {
-	content: "\e901";
+.cc-SYS-alt:before {
+    content: "\e993";
+}
+.cc-VNL:before {
+    content: "\e994";
+}
+.cc-VNL-alt:before {
+    content: "\e995";
+}
+.cc-AEON:before {
+    content: "\e900";
+}
+.cc-AEON-alt:before {
+    content: "\e901";
+}
+.cc-AMP:before {
+    content: "\e975";
+}
+.cc-AMP-alt:before {
+    content: "\e976";
+}
+.cc-ANC:before {
+    content: "\e977";
+}
+.cc-ANC-alt:before {
+    content: "\e978";
+}
+.cc-BTA:before {
+    content: "\e979";
+}
+.cc-CLAM:before {
+    content: "\e97a";
+}
+.cc-CLAM-alt:before {
+    content: "\e97b";
+}
+.cc-CLOAK:before {
+    content: "\e97c";
+}
+.cc-CLOAK-alt:before {
+    content: "\e97d";
+}
+.cc-DCR:before {
+    content: "\e97e";
+}
+.cc-DCR-alt:before {
+    content: "\e97f";
+}
+.cc-NEOS:before {
+    content: "\e980";
+}
+.cc-NEOS-alt:before {
+    content: "\e981";
+}
+.cc-NLG:before {
+    content: "\e982";
+}
+.cc-NLG-alt:before {
+    content: "\e983";
+}
+.cc-OK:before {
+    content: "\e984";
+}
+.cc-OK-alt:before {
+    content: "\e985";
+}
+.cc-OMNI:before {
+    content: "\e986";
+}
+.cc-OMNI-alt:before {
+    content: "\e987";
+}
+.cc-SCOT:before {
+    content: "\e988";
+}
+.cc-SCOT-alt:before {
+    content: "\e989";
+}
+.cc-SJCX:before {
+    content: "\e98a";
+}
+.cc-SJCX-alt:before {
+    content: "\e98b";
+}
+.cc-START:before {
+    content: "\e98c";
+}
+.cc-START-alt:before {
+    content: "\e98d";
+}
+.cc-TX:before {
+    content: "\e98e";
+}
+.cc-TX-alt:before {
+    content: "\e98f";
+}
+.cc-XVG:before {
+    content: "\e990";
+}
+.cc-XVG-alt:before {
+    content: "\e991";
 }
 .cc-ARCH:before {
-	content: "\e902";
+    content: "\e902";
 }
 .cc-ARCH-alt:before {
-	content: "\e903";
+    content: "\e903";
 }
 .cc-BANX:before {
-	content: "\e904";
+    content: "\e904";
 }
 .cc-BANX-alt:before {
-	content: "\e905";
+    content: "\e905";
 }
 .cc-BAY:before {
-	content: "\e906";
+    content: "\e906";
 }
 .cc-BAY-alt:before {
-	content: "\e907";
+    content: "\e907";
 }
 .cc-BC:before {
-	content: "\e908";
+    content: "\e908";
 }
 .cc-BC-alt:before {
-	content: "\e909";
+    content: "\e909";
 }
 .cc-BCN:before {
-	content: "\e90a";
+    content: "\e90a";
 }
 .cc-BCN-alt:before {
-	content: "\e90b";
+    content: "\e90b";
 }
 .cc-BTC:before {
-	content: "\e90c";
+    content: "\e90c";
 }
 .cc-BTC-alt:before {
-	content: "\e90d";
+    content: "\e90d";
 }
 .cc-BTCD:before {
-	content: "\e90e";
+    content: "\e90e";
 }
 .cc-BTCD-alt:before {
-	content: "\e90f";
+    content: "\e90f";
 }
 .cc-BTS:before {
-	content: "\e910";
+    content: "\e910";
 }
 .cc-BTS-alt:before {
-	content: "\e911";
+    content: "\e911";
 }
 .cc-DASH:before {
-	content: "\e912";
+    content: "\e912";
 }
 .cc-DASH-alt:before {
-	content: "\e913";
+    content: "\e913";
 }
 .cc-DGB:before {
-	content: "\e914";
+    content: "\e914";
 }
 .cc-DGB-alt:before {
-	content: "\e915";
+    content: "\e915";
 }
 .cc-DMD:before {
-	content: "\e916";
+    content: "\e916";
 }
 .cc-DMD-alt:before {
-	content: "\e917";
+    content: "\e917";
 }
 .cc-DOGE:before {
-	content: "\e918";
+    content: "\e918";
 }
 .cc-DOGE-alt:before {
-	content: "\e919";
+    content: "\e919";
 }
 .cc-EMC:before {
-	content: "\e91a";
+    content: "\e91a";
 }
 .cc-EMC-alt:before {
-	content: "\e91b";
+    content: "\e91b";
 }
 .cc-ETH:before {
-	content: "\e91c";
+    content: "\e91c";
 }
 .cc-ETH-alt:before {
-	content: "\e91d";
+    content: "\e91d";
 }
 .cc-FC2:before {
-	content: "\e91e";
+    content: "\e91e";
 }
 .cc-FC2-alt:before {
-	content: "\e91f";
+    content: "\e91f";
 }
 .cc-FRK:before {
-	content: "\e920";
+    content: "\e920";
 }
 .cc-FRK-alt:before {
-	content: "\e921";
+    content: "\e921";
 }
 .cc-FTC:before {
-	content: "\e922";
+    content: "\e922";
 }
 .cc-FTC-alt:before {
-	content: "\e923";
+    content: "\e923";
 }
 .cc-GEMZ:before {
-	content: "\e924";
+    content: "\e924";
 }
 .cc-GEMZ-alt:before {
-	content: "\e925";
+    content: "\e925";
 }
 .cc-GRC:before {
-	content: "\e926";
+    content: "\e926";
 }
 .cc-GRC-alt:before {
-	content: "\e927";
+    content: "\e927";
 }
 .cc-IFC:before {
-	content: "\e928";
+    content: "\e928";
 }
 .cc-IFC-alt:before {
-	content: "\e929";
+    content: "\e929";
 }
 .cc-IOC:before {
-	content: "\e92a";
+    content: "\e92a";
 }
 .cc-IOC-alt:before {
-	content: "\e92b";
+    content: "\e92b";
 }
 .cc-KORE:before {
-	content: "\e92c";
+    content: "\e92c";
 }
 .cc-KORE-alt:before {
-	content: "\e92d";
+    content: "\e92d";
 }
 .cc-LDOGE:before {
-	content: "\e92e";
+    content: "\e92e";
 }
 .cc-LDOGE-alt:before {
-	content: "\e92f";
+    content: "\e92f";
 }
 .cc-LTC:before {
-	content: "\e930";
+    content: "\e930";
 }
 .cc-LTC-alt:before {
-	content: "\e931";
+    content: "\e931";
 }
 .cc-MAID:before {
-	content: "\e932";
+    content: "\e932";
 }
 .cc-MAID-alt:before {
-	content: "\e933";
+    content: "\e933";
 }
 .cc-MINT:before {
-	content: "\e934";
+    content: "\e934";
 }
 .cc-MINT-alt:before {
-	content: "\e935";
+    content: "\e935";
 }
 .cc-MONA:before {
-	content: "\e936";
+    content: "\e936";
 }
 .cc-MONA-alt:before {
-	content: "\e937";
+    content: "\e937";
 }
 .cc-MRC:before {
-	content: "\e938";
+    content: "\e938";
 }
 .cc-MSC:before {
-	content: "\e939";
+    content: "\e939";
 }
 .cc-MSC-alt:before {
-	content: "\e93a";
+    content: "\e93a";
 }
 .cc-MTR:before {
-	content: "\e93b";
+    content: "\e93b";
 }
 .cc-MTR-alt:before {
-	content: "\e93c";
+    content: "\e93c";
 }
 .cc-MUE:before {
-	content: "\e93d";
+    content: "\e93d";
 }
 .cc-MUE-alt:before {
-	content: "\e93e";
+    content: "\e93e";
 }
 .cc-NBT:before {
-	content: "\e93f";
+    content: "\e93f";
 }
 .cc-NEU:before {
-	content: "\e940";
+    content: "\e940";
 }
 .cc-NEU-alt:before {
-	content: "\e941";
+    content: "\e941";
 }
 .cc-NMC:before {
-	content: "\e942";
+    content: "\e942";
 }
 .cc-NMC-alt:before {
-	content: "\e943";
+    content: "\e943";
 }
 .cc-NOTE:before {
-	content: "\e944";
+    content: "\e944";
 }
 .cc-NOTE-alt:before {
-	content: "\e945";
+    content: "\e945";
 }
 .cc-NVC:before {
-	content: "\e946";
+    content: "\e946";
 }
 .cc-NVC-alt:before {
-	content: "\e947";
+    content: "\e947";
 }
 .cc-NXT:before {
-	content: "\e948";
+    content: "\e948";
 }
 .cc-NXT-alt:before {
-	content: "\e949";
+    content: "\e949";
 }
 .cc-OPAL:before {
-	content: "\e94a";
+    content: "\e94a";
 }
 .cc-OPAL-alt:before {
-	content: "\e94b";
+    content: "\e94b";
 }
 .cc-POT:before {
-	content: "\e94c";
+    content: "\e94c";
 }
 .cc-POT-alt:before {
-	content: "\e94d";
+    content: "\e94d";
 }
 .cc-PPC:before {
-	content: "\e94e";
+    content: "\e94e";
 }
 .cc-PPC-alt:before {
-	content: "\e94f";
+    content: "\e94f";
 }
 .cc-QRK:before {
-	content: "\e950";
+    content: "\e950";
 }
 .cc-QRK-alt:before {
-	content: "\e951";
+    content: "\e951";
 }
 .cc-RBT:before {
-	content: "\e952";
+    content: "\e952";
 }
 .cc-RBT-alt:before {
-	content: "\e953";
+    content: "\e953";
 }
 .cc-RBY:before {
-	content: "\e954";
+    content: "\e954";
 }
 .cc-RBY-alt:before {
-	content: "\e955";
+    content: "\e955";
 }
 .cc-SDC:before {
-	content: "\e956";
+    content: "\e956";
 }
 .cc-SDC-alt:before {
-	content: "\e957";
+    content: "\e957";
 }
 .cc-STR:before {
-	content: "\e958";
+    content: "\e958";
 }
 .cc-STR-alt:before {
-	content: "\e959";
+    content: "\e959";
 }
 .cc-SYNC:before {
-	content: "\e95a";
+    content: "\e95a";
 }
 .cc-SYNC-alt:before {
-	content: "\e95b";
+    content: "\e95b";
 }
 .cc-UNITY:before {
-	content: "\e95c";
+    content: "\e95c";
 }
 .cc-UNITY-alt:before {
-	content: "\e95d";
+    content: "\e95d";
 }
 .cc-VIOR:before {
-	content: "\e95e";
+    content: "\e95e";
 }
 .cc-VIOR-alt:before {
-	content: "\e95f";
+    content: "\e95f";
 }
 .cc-VPN:before {
-	content: "\e960";
+    content: "\e960";
 }
 .cc-VPN-alt:before {
-	content: "\e961";
+    content: "\e961";
 }
 .cc-VRC:before {
-	content: "\e962";
+    content: "\e962";
 }
 .cc-VRC-alt:before {
-	content: "\e963";
+    content: "\e963";
 }
 .cc-VTC:before {
-	content: "\e964";
+    content: "\e964";
 }
 .cc-VTC-alt:before {
-	content: "\e965";
+    content: "\e965";
 }
 .cc-XAI:before {
-	content: "\e966";
+    content: "\e966";
 }
 .cc-XAI-alt:before {
-	content: "\e967";
+    content: "\e967";
 }
 .cc-XBS:before {
-	content: "\e968";
+    content: "\e968";
 }
 .cc-XBS-alt:before {
-	content: "\e969";
+    content: "\e969";
 }
 .cc-XCP:before {
-	content: "\e96a";
+    content: "\e96a";
 }
 .cc-XCP-alt:before {
-	content: "\e96b";
+    content: "\e96b";
 }
 .cc-XEM:before {
-	content: "\e96c";
+    content: "\e96c";
 }
 .cc-XEM-alt:before {
-	content: "\e96d";
+    content: "\e96d";
 }
 .cc-XMR:before {
-	content: "\e96e";
+    content: "\e96e";
 }
 .cc-XPM:before {
-	content: "\e96f";
+    content: "\e96f";
 }
 .cc-XPM-alt:before {
-	content: "\e970";
+    content: "\e970";
 }
 .cc-XRP:before {
-	content: "\e971";
+    content: "\e971";
 }
 .cc-XRP-alt:before {
-	content: "\e972";
+    content: "\e972";
 }
 .cc-YBC:before {
-	content: "\e973";
+    content: "\e973";
 }
 .cc-YBC-alt:before {
-	content: "\e974";
+    content: "\e974";
 }
 

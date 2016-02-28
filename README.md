@@ -24,6 +24,7 @@ Updates
 
 | Version | Changes |
 | :------ | :------ |
+| **1.6** | added Aeon (AEON), Synereo (AMP), Anoncoin (ANC), Bata (BTA), Clams (CLAM), Cloakcoin (CLOAK), Decred (DCR), Neos (NEOS), Gulden (NLG), OKcash (OK), Omni (OMNI), Scotcoin (SCOT), Storj (SJCX), Startcoin (START), Syscoin (SYS), Transfercoin (TX), Vanillacoin (VNL), Verge (XVG), updated Rubycoin (RBY) |
 | **1.5** | added DigiByte (DGB), DogeCoinDark (DOGED), EmerCoin (EMC), Ethereum (ETH), MintCoin (MINT), MonaCoin (MONA), MicroCoin (MRC), NeuCoin (NEU), Novacoin (NVC), Rubycoin (RBY), updated BitBay |
 | **1.4** | added BitBay (BAY), Diamond (DMD), Franko (FRK), I/O Coin (IOC), LiteDoge (LDOGE), MasterTraderCoin (MTR), Monetary Unit (MUE), Sapience AIFX (XAI), Primecoin (XPM), updated BitStake (XBS) |
 | **1.3** | updated Darkcoin → Dash, added Infinitecoin (IFC), Vertcoin (VTC), NEM (XEM), DNotes (NOTE), Rimbit (RBT), GetGems (GEMZ), VeriCoin (VRC), ARCHcoin (ARCH), BitStake (XBS) |
@@ -45,6 +46,7 @@ Tip me crypto and **support further development**:
 * [Bitcoin](https://bitcoin.org/en): ```1MByfmAdyRFr3qxMh2cspX5RsxS4FKjMmH```
 * [ShadowCash](http://aboutshadow.com): ```SScnhyH7GGH2UxRm4SFZg7epK3yDJA59fb```
 * [Verge](http://vergecurrency.com): ```DBT5xkoy5dbYULkNxezL8FpinyfTvpVeTe```
+* [Decred](https://www.decred.org): ```DsbP825Rna7sT6CfyKQSjm1AwzHtqeGjkJX```
 * [Blackcoin](http://blackcoin.co): ```B9oLoQMsTCztEbwd9nHQxdJWKuv62aNuze```
 * [Litecoin](https://litecoin.org): ```LQ5AMQDu3BTWHM2VDzyfv8Msej7NrMZLFH```
 
