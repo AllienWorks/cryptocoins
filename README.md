@@ -48,8 +48,8 @@ Author
 
 Tip me crypto and **support further development**:
 
-* [Bitcoin](https://bitcoin.org/en): ```1BY4WaXtLWXAizD51hoYpVF7HEi5nGLk6z```
-* [ShadowCash](http://aboutshadow.com): ```SScnhyH7GGH2UxRm4SFZg7epK3yDJA59fb```
+* [Bitcoin](https://bitcoin.org/en): ```1DdSodHjDUNwLRWe4uFgYTmmkeAG6W4o35```
+* [ShadowCash](http://aboutshadow.com): ```SWFjyg5kMzgbKXgydwrf6cy86aXcZpe1LJ```
 * [Decred](https://www.decred.org): ```DsYnhbsK1AwDx8AUGmy5BvKn2bbB4PWVv6w```
 * [Ethereum](https://www.ethereum.org): ```0xba356f88f126aa0d0f25ef8a43c9fb19471646f8```
 * [Verge](http://vergecurrency.com): ```DTQnniFjYJUYs1puAFuhEJAYJevP9BTvEt```
