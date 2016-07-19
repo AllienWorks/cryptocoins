@@ -59,7 +59,7 @@ SVG is better option, if you want to use just a few icons (including whole webfo
 
 ### Still lost?
 
-Having troubles and can't get it working? I'm here for you! Go ahead and write me at @AllienWorks or 0x98EC204D.
+Having troubles and can't get it working? I'm here for you! Go ahead and write me at [@AllienWorks](https://twitter.com/AllienWorks) or [0x98EC204D](https://keybase.io/martin_allien).
 
 
 Requests
