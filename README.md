@@ -11,11 +11,55 @@ Available both in pure vector SVG and webfont formats for taking advantage of sm
 
 ![Cryptocoins Preview](cryptocoins-preview.png)
 
-Installation, Docs & Demo
+Docs & Demo
 -------------------------
 
 * **Demo**: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins)
 * **Download**: [allienworks.net/products/cryptocoins](https://allienworks.net/products/cryptocoins/)
+
+
+Installation
+------------
+
+### Download 
+
+Download Cryptocoins and extract its contents.
+
+### Webfont version
+
+Webfont is ideal when you want to use majority of Cryptocoins icons. Copy "fonts" folder and "cryptocoins.css" styles to your project and link Cryptocoins CSS in your project (you can optionally include also "cryptocoins-colors.css" if you want to use predefined colors):
+
+``` html
+<!-- CSS defining icons (required) -->
+<link rel="stylesheet" href="css/cryptocoins.css">
+
+<!-- CSS defining icon/coin colors (optional) -->
+<link rel="stylesheet" href="css/cryptocoins-colors.css">
+```
+
+Then insert your icons in HTML, e.g.:
+
+> Important: Since 2.0 update, you need to implement icons via class="cc BTC" (with a space) instead of class="cc-BTC" (with a hyphen), otherwise they won't work. Why? This way they will work well with other iconpacks (like Font Awesome).
+
+``` html
+<i class="cc BTC"></i>
+```
+
+If you're familiar with Font Awesome, it's pretty much the same. You'll find the CSS references on top of this page or in demo file (included in download).
+
+### SVG version
+
+SVG is better option, if you want to use just a few icons (including whole webfont would be data-inefficient. Find the icons you need in "SVG" folder and copy them to your project. Then use them as regular images:
+
+``` html
+<img src="img/BTC.svg" alt="Bitcoin">
+```
+
+**Tip:** You can also open each SVG icon in text editor and copy its contents directly into HTML, resulting in fewer HTTP requests and ability to style icons direcly via CSS. There are also [many scripts](http://stackoverflow.com/questions/11978995/how-to-change-color-of-svg-image-using-css-jquery-svg-image-replacement) that do the same automatically – your choice.
+
+### Still lost?
+
+Having troubles and can't get it working? I'm here for you! Go ahead and write me at [@AllienWorks](https://twitter.com/AllienWorks) or [0x98EC204D](https://keybase.io/martin_allien).
 
 
 Requests
