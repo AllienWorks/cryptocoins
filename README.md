@@ -18,6 +18,21 @@ Docs & Demo
 * **Download**: [allienworks.net/products/cryptocoins](https://allienworks.net/products/cryptocoins/)
 
 
+Requesting new coins/icons
+--------------------------
+
+Initial release contains just a fraction of Altcoins. If you're missing your coin, please let me know so I can include it in next release. Since there are many requests lately and I can hardly keep up, **I have to ask you to follow these guidelines**:
+
+1. [open a new issue](https://github.com/allienworks/cryptocoins/issues/new) in this repo
+2. include full coin name and ticker symbol in the issue title
+3. link current logo image in the description (you can also include BitcoinTalk thread of your coin, so I can post it there once the release is complete)
+4. (optional) you can notify me on [@AllienWorks](https://twitter.com/AllienWorks) Twitter (also, helps spreading the word)
+
+**E.g.** – issue title: "Bitcoin (BTC)", description: "Could you please add Bitcoin? Current logo here: https://bitcoin.org/img/icons/opengraph.png, thanks very much ;)"
+
+**This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, please donate. Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
+
+
 Installation
 ------------
 
@@ -62,11 +77,6 @@ SVG is better option, if you want to use just a few icons (including whole webfo
 Having troubles and can't get it working? I'm here for you! Go ahead and write me at [@AllienWorks](https://twitter.com/AllienWorks) or [0x98EC204D](https://keybase.io/martin_allien).
 
 
-Requests
---------
-
-Initial release contains just a fraction of Altcoins. If you're missing your cryptocoin, please let me know so I can include it in next release (you can do so here or hit me at Twitter [@AllienWorks](https://twitter.com/AllienWorks)) (include official name and ticker of the coin + ideally link to current logo).
-
 Updates
 -------
 
@@ -105,7 +115,6 @@ Tip me crypto and **support further development**:
 Follow for updates and more stuff:
 
 * Twitter: [@AllienWorks](https://twitter.com/AllienWorks)
-* Google+: [+AllienWorksNet](https://google.com/+AllienWorksNet)
 
 Licence
 -------
