@@ -92,12 +92,14 @@ Author
 
 Tip me crypto and **support further development**:
 
-* [Bitcoin](https://bitcoin.org/en): ```1DdSodHjDUNwLRWe4uFgYTmmkeAG6W4o35```
-* [ShadowCash](http://aboutshadow.com): ```SWFjyg5kMzgbKXgydwrf6cy86aXcZpe1LJ```
-* [Decred](https://www.decred.org): ```DsYnhbsK1AwDx8AUGmy5BvKn2bbB4PWVv6w```
+* [Bitcoin](https://bitcoin.org/en): ```1JHdnyyHC1ioxVhjbQb9eVcYLJUxH1njpY```
+* [ShadowCash](http://aboutshadow.com): ```STAKEbLd2DecHRadoXyBE5jmZrJztLr9TE```
+* [Decred](https://www.decred.org): ```DsbP825Rna7sT6CfyKQSjm1AwzHtqeGjkJX```
 * [Ethereum](https://www.ethereum.org): ```0xba356f88f126aa0d0f25ef8a43c9fb19471646f8```
+* [Ethereum Classic](https://ethereumclassic.github.io): ```0x9a61ab388beb6dec3b58904f474ff0fc08de8615```
 * [Verge](http://vergecurrency.com): ```DTQnniFjYJUYs1puAFuhEJAYJevP9BTvEt```
 * [Blackcoin](http://blackcoin.co): ```BJjg8cNiDsf66mgw1dga4h37jGA9v5MeNj```
+* [Dash](https://www.dash.org): ```XqZ2KbnnwVzD6CGPot7ntwf3cevfGeQorG```
 * [Litecoin](https://litecoin.org): ```LNwiWXK8kb8jVKv9ioVfbiqA4puyBkUXg4```
 
 Follow for updates and more stuff:
