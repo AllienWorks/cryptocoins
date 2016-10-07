@@ -11,17 +11,71 @@ Available both in pure vector SVG and webfont formats for taking advantage of sm
 
 ![Cryptocoins Preview](cryptocoins-preview.png)
 
-Installation, Docs & Demo
+Docs & Demo
 -------------------------
 
 * **Demo**: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins)
 * **Download**: [allienworks.net/products/cryptocoins](https://allienworks.net/products/cryptocoins/)
 
 
-Requests
---------
+Requesting new coins/icons
+--------------------------
 
-Initial release contains just a fraction of Altcoins. If you're missing your cryptocoin, please let me know so I can include it in next release (you can do so here or hit me at Twitter [@AllienWorks](https://twitter.com/AllienWorks)) (include official name and ticker of the coin + ideally link to current logo).
+Initial release contains just a fraction of Altcoins. If you're missing your coin, please let me know so I can include it in next release. Since there are many requests lately and I can hardly keep up, **I have to ask you to follow these guidelines**:
+
+1. [open a new issue](https://github.com/allienworks/cryptocoins/issues/new) in this repo
+2. include full coin name and ticker symbol in the issue title
+3. link current logo image in the description (you can also include BitcoinTalk thread of your coin, so I can post it there once the release is complete)
+4. (optional) you can notify me on [@AllienWorks](https://twitter.com/AllienWorks) Twitter (also, helps spreading the word)
+
+**E.g.** – issue title: "Bitcoin (BTC)", description: "Could you please add Bitcoin? Current logo here: https://bitcoin.org/img/icons/opengraph.png, thanks very much ;)"
+
+**This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, please donate. Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
+
+
+Installation
+------------
+
+### Download 
+
+Download Cryptocoins and extract its contents.
+
+### Webfont version
+
+Webfont is ideal when you want to use majority of Cryptocoins icons. Copy "fonts" folder and "cryptocoins.css" styles to your project and link Cryptocoins CSS in your project (you can optionally include also "cryptocoins-colors.css" if you want to use predefined colors):
+
+``` html
+<!-- CSS defining icons (required) -->
+<link rel="stylesheet" href="css/cryptocoins.css">
+
+<!-- CSS defining icon/coin colors (optional) -->
+<link rel="stylesheet" href="css/cryptocoins-colors.css">
+```
+
+Then insert your icons in HTML, e.g.:
+
+> Important: Since 2.0 update, you need to implement icons via class="cc BTC" (with a space) instead of class="cc-BTC" (with a hyphen), otherwise they won't work. Why? This way they will work well with other iconpacks (like Font Awesome).
+
+``` html
+<i class="cc BTC"></i>
+```
+
+If you're familiar with Font Awesome, it's pretty much the same. You'll find the CSS references on top of this page or in demo file (included in download).
+
+### SVG version
+
+SVG is better option, if you want to use just a few icons (including whole webfont would be data-inefficient. Find the icons you need in "SVG" folder and copy them to your project. Then use them as regular images:
+
+``` html
+<img src="img/BTC.svg" alt="Bitcoin">
+```
+
+**Tip:** You can also open each SVG icon in text editor and copy its contents directly into HTML, resulting in fewer HTTP requests and ability to style icons direcly via CSS. There are also [many scripts](http://stackoverflow.com/questions/11978995/how-to-change-color-of-svg-image-using-css-jquery-svg-image-replacement) that do the same automatically – your choice.
+
+### Still lost?
+
+Having troubles and can't get it working? I'm here for you! Go ahead and write me at [@AllienWorks](https://twitter.com/AllienWorks) or [0x98EC204D](https://keybase.io/martin_allien).
+
 
 Updates
 -------
@@ -48,18 +102,19 @@ Author
 
 Tip me crypto and **support further development**:
 
-* [Bitcoin](https://bitcoin.org/en): ```1BY4WaXtLWXAizD51hoYpVF7HEi5nGLk6z```
-* [ShadowCash](http://aboutshadow.com): ```SScnhyH7GGH2UxRm4SFZg7epK3yDJA59fb```
-* [Decred](https://www.decred.org): ```DsYnhbsK1AwDx8AUGmy5BvKn2bbB4PWVv6w```
+* [Bitcoin](https://bitcoin.org/en): ```1JHdnyyHC1ioxVhjbQb9eVcYLJUxH1njpY```
+* [ShadowCash](http://aboutshadow.com): ```STAKEbLd2DecHRadoXyBE5jmZrJztLr9TE```
+* [Decred](https://www.decred.org): ```DsbP825Rna7sT6CfyKQSjm1AwzHtqeGjkJX```
 * [Ethereum](https://www.ethereum.org): ```0xba356f88f126aa0d0f25ef8a43c9fb19471646f8```
+* [Ethereum Classic](https://ethereumclassic.github.io): ```0x9a61ab388beb6dec3b58904f474ff0fc08de8615```
 * [Verge](http://vergecurrency.com): ```DTQnniFjYJUYs1puAFuhEJAYJevP9BTvEt```
 * [Blackcoin](http://blackcoin.co): ```BJjg8cNiDsf66mgw1dga4h37jGA9v5MeNj```
+* [Dash](https://www.dash.org): ```XqZ2KbnnwVzD6CGPot7ntwf3cevfGeQorG```
 * [Litecoin](https://litecoin.org): ```LNwiWXK8kb8jVKv9ioVfbiqA4puyBkUXg4```
 
 Follow for updates and more stuff:
 
 * Twitter: [@AllienWorks](https://twitter.com/AllienWorks)
-* Google+: [+AllienWorksNet](https://google.com/+AllienWorksNet)
 
 Licence
 -------
