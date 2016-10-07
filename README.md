@@ -82,6 +82,7 @@ Updates
 
 | Version | Changes |
 | :------ | :------ |
+| **2.1** | updated Peercoin (PPC), added AudioCoin (ADC), Bitsend (BSD), The DAO (DAO), Europecoin (ERC), Ethereum Classic (ETC), Goldcoin (GLD), Groestlcoin (GRS), Kobocoin (KOBO), LBRY (LBC), Pinkcoin (PINK), Reddcoin (RDD), RISE (RISE), Sia (SIA), Solus (SLS), SynergyCoin (SNRG), Steem (STEEM), Stratis (STRAT), BitSwift (SWIFT) |
 | **2.0** | tweaked styles for **separate namespace** (see issue #7), fixed Ripple (XRP) typo, added Digitalcoin (GDC), DigixDAO (DGD/DGX), Facton (FCT), Jumbucks (JBS), Lisk (LISK), PiggyCoin (PIGGY), Rubies (RBIES), Sarcoin (SAR), SterlingCoin (SLG), Tether (USDT), Zeitcoin (ZEIT) |
 | **1.6** | added Aeon (AEON), Synereo (AMP), Anoncoin (ANC), Bata (BTA), Clams (CLAM), Cloakcoin (CLOAK), Decred (DCR), Neos (NEOS), Gulden (NLG), OKcash (OK), Omni (OMNI), Scotcoin (SCOT), Storj (SJCX), Startcoin (START), Syscoin (SYS), Transfercoin (TX), Vanillacoin (VNL), Verge (XVG), updated Rubycoin (RBY) |
 | **1.5** | added DigiByte (DGB), DogeCoinDark (DOGED), EmerCoin (EMC), Ethereum (ETH), MintCoin (MINT), MonaCoin (MONA), MicroCoin (MRC), NeuCoin (NEU), Novacoin (NVC), Rubycoin (RBY), updated BitBay |
