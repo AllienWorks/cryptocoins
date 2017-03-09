@@ -1,21 +1,21 @@
 Cryptocoins
 ===========
 
-**Cryptocoins is the most complete free vector/webfont iconpack of your favourite cryptocurrencies.**
+**Cryptocoins is the most complete free vector iconpack of your favourite cryptocurrencies.**
 
-Available both in pure vector SVG and webfont formats for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
+Available in vector SVG format for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
 
 ----
 
-**IMPORTANT:** Since 2.0 update, you need to implement icons via ```class="cc BTC"``` instead of ```cc-BTC```, otherwise they won't work. Why? This way they will work well with other iconpacks (like Font Awesome).
+**Since 2.2 update, webfont version isn't included by default.** I will release webfont versions less often as it seems like nobody's really using it. Sucks? [Learn how to generate webfont by yourself](https://allien.work/blog/howto-generate-icon-webfont) – it's even better when you only include those you really need.
 
 ![Cryptocoins Preview](cryptocoins-preview.png)
 
 Docs & Demo
 -------------------------
 
-* **Demo**: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins)
-* **Download**: [allienworks.net/products/cryptocoins](https://allienworks.net/products/cryptocoins/)
+* **Demo**: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins) `out-of-date` (new demo planned)
+* **Download**: clone or [download ZIP](https://github.com/allienworks/cryptocoins/archive/master.zip) directly from GitHub
 
 
 Requesting new coins/icons
@@ -36,41 +36,7 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 Installation
 ------------
 
-### Download 
-
-Download Cryptocoins and extract its contents.
-
-### Webfont version
-
-Webfont is ideal when you want to use majority of Cryptocoins icons. Copy "fonts" folder and "cryptocoins.css" styles to your project and link Cryptocoins CSS in your project (you can optionally include also "cryptocoins-colors.css" if you want to use predefined colors):
-
-``` html
-<!-- CSS defining icons (required) -->
-<link rel="stylesheet" href="css/cryptocoins.css">
-
-<!-- CSS defining icon/coin colors (optional) -->
-<link rel="stylesheet" href="css/cryptocoins-colors.css">
-```
-
-Then insert your icons in HTML, e.g.:
-
-> Important: Since 2.0 update, you need to implement icons via class="cc BTC" (with a space) instead of class="cc-BTC" (with a hyphen), otherwise they won't work. Why? This way they will work well with other iconpacks (like Font Awesome).
-
-``` html
-<i class="cc BTC"></i>
-```
-
-If you're familiar with Font Awesome, it's pretty much the same. You'll find the CSS references on top of this page or in demo file (included in download).
-
-### SVG version
-
-SVG is better option, if you want to use just a few icons (including whole webfont would be data-inefficient. Find the icons you need in "SVG" folder and copy them to your project. Then use them as regular images:
-
-``` html
-<img src="img/BTC.svg" alt="Bitcoin">
-```
-
-**Tip:** You can also open each SVG icon in text editor and copy its contents directly into HTML, resulting in fewer HTTP requests and ability to style icons direcly via CSS. There are also [many scripts](http://stackoverflow.com/questions/11978995/how-to-change-color-of-svg-image-using-css-jquery-svg-image-replacement) that do the same automatically – your choice.
+See [detailed instruction on Wiki](https://github.com/allienworks/cryptocoins/wiki).
 
 ### Still lost?
 
@@ -82,20 +48,10 @@ Author
 
 **Martin Allien**
 
-* Website: [allienworks.net](https://allienworks.net)
+* Website: [allien.work](https://allien.work)
 * Keybase: [martin_allien](https://keybase.io/martin_allien)
 
-Tip me crypto and **support further development**:
-
-* [Bitcoin](https://bitcoin.org/en): ```1JHdnyyHC1ioxVhjbQb9eVcYLJUxH1njpY```
-* [ShadowCash](http://aboutshadow.com): ```STAKEbLd2DecHRadoXyBE5jmZrJztLr9TE```
-* [Decred](https://www.decred.org): ```DsbP825Rna7sT6CfyKQSjm1AwzHtqeGjkJX```
-* [Ethereum](https://www.ethereum.org): ```0xba356f88f126aa0d0f25ef8a43c9fb19471646f8```
-* [Ethereum Classic](https://ethereumclassic.github.io): ```0x9a61ab388beb6dec3b58904f474ff0fc08de8615```
-* [Verge](http://vergecurrency.com): ```DTQnniFjYJUYs1puAFuhEJAYJevP9BTvEt```
-* [Blackcoin](http://blackcoin.co): ```BJjg8cNiDsf66mgw1dga4h37jGA9v5MeNj```
-* [Dash](https://www.dash.org): ```XqZ2KbnnwVzD6CGPot7ntwf3cevfGeQorG```
-* [Litecoin](https://litecoin.org): ```LNwiWXK8kb8jVKv9ioVfbiqA4puyBkUXg4```
+[Tip me crypto](https://allien.work/donate) and **support further development**!
 
 Follow for updates and more stuff:
 
@@ -105,8 +61,11 @@ Follow for updates and more stuff:
 Updates
 -------
 
+Since v2.2 Cryptocoins are "rolling release", it doesn't make sense to log history anymore.
+
 | Version | Changes |
 | :------ | :------ |
+| **2.2** | removed webfont version, switched to "rolling release", added Ardor (ARDR), AuroraCoin (AUR), Blockfreight (BFT), GameCredits (GAME), Augur (REP), Waves (WAVES), Z-Cash (ZEC); updated Decred (DCR), Neos (NEOS), Stratis (STRAT) |
 | **2.1** | updated Peercoin (PPC), added AudioCoin (ADC), Bitsend (BSD), The DAO (DAO), Europecoin (ERC), Ethereum Classic (ETC), Goldcoin (GLD), Groestlcoin (GRS), Kobocoin (KOBO), LBRY (LBC), Pinkcoin (PINK), Reddcoin (RDD), RISE (RISE), Sia (SIA), Salus (SLS), SynergyCoin (SNRG), Steem (STEEM), Stratis (STRAT), BitSwift (SWIFT) |
 | **2.0** | tweaked styles for **separate namespace** (see issue #7), fixed Ripple (XRP) typo, added Digitalcoin (GDC), DigixDAO (DGD/DGX), Facton (FCT), Jumbucks (JBS), Lisk (LISK), PiggyCoin (PIGGY), Rubies (RBIES), Sarcoin (SAR), SterlingCoin (SLG), Tether (USDT), Zeitcoin (ZEIT) |
 | **1.6** | added Aeon (AEON), Synereo (AMP), Anoncoin (ANC), Bata (BTA), Clams (CLAM), Cloakcoin (CLOAK), Decred (DCR), Neos (NEOS), Gulden (NLG), OKcash (OK), Omni (OMNI), Scotcoin (SCOT), Storj (SJCX), Startcoin (START), Syscoin (SYS), Transfercoin (TX), Vanillacoin (VNL), Verge (XVG), updated Rubycoin (RBY) |
