@@ -18,17 +18,15 @@ Docs & Demo
 * **Download**: clone or [download ZIP](https://github.com/allienworks/cryptocoins/archive/master.zip) directly from GitHub
 
 
-Requesting new coins/icons
---------------------------
+Requesting new icons
+--------------------
 
 Initial release contains just a fraction of Altcoins. If you're missing your coin, please let me know so I can include it in next release. Since there are many requests lately and I can hardly keep up, **I have to ask you to follow these guidelines**:
 
 1. [open a new issue](https://github.com/allienworks/cryptocoins/issues/new) in this repo
-2. include full coin name and ticker symbol in the issue title
-3. link current logo image in the description (you can also include BitcoinTalk thread of your coin, so I can post it there once the release is complete)
+2. fill in the template (coin name, ticker symbol, link to official logo etc.)
+3. _(optional)_ you can include HEX code of the main color used in coin's branding and bitcointalk thread link (not mandatory, but saves me time)
 4. (optional) you can notify me on [@AllienWorks](https://twitter.com/AllienWorks) Twitter (also, helps spreading the word)
-
-**E.g.** – issue title: "Bitcoin (BTC)", description: "Could you please add Bitcoin? Current logo here: https://bitcoin.org/img/icons/opengraph.png, thanks very much ;)"
 
 **This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, please donate. Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
 
