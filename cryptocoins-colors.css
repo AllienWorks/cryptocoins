@@ -10,6 +10,8 @@
 .BC { fill: #202121; }
 .BCN { fill: #964F51; }
 .BFT { fill: #4fc3f7; }
+.BRK { fill: #194fa0; }
+.BRX { fill: #a8c300; }
 .BSD { fill: #1186E7; }
 .BTA { fill: #210094; }
 .BTC { fill: #F7931A; }
@@ -30,12 +32,14 @@
 .ETH { fill: #282828; }
 .FC2 { fill: #040405; }
 .FCT { fill: #2175BB; }
+.FLO { fill: #1358C8; }
 .FRK { fill: #0633cd; }
 .FTC { fill: #679EF1; }
 .GAME { fill: #ed1b24; }
 .GDC { fill: #E9A226; }
 .GEMZ { fill: #e86060; }
 .GLD { fill: #E8BE24; }
+.GNT { fill: #00d6e3; }
 .GRC { fill: #88A13C; }
 .GRS { fill: #648FA0; }
 .HEAT { fill: #ff5606; }
@@ -71,6 +75,7 @@
 .OPAL { fill: #7193AA; }
 .PIGGY { fill: #F27A7A; }
 .PINK { fill: #ED31CA; }
+.PIVX { fill: #3b2f4d; }
 .POT { fill: #105B2F; }
 .PPC { fill: #3FA30C; }
 .QRK { fill: #22AABF; }
@@ -95,7 +100,9 @@
 .SWIFT { fill: #428BCA; }
 .SYNC { fill: #008DD2; }
 .SYS { fill: #0098DA; }
+.TRIG { fill: #1fbff4; }
 .TX { fill: #1F8BCC; }
+.UBQ { fill: #00ec8d; }
 .UNITY { fill: #ED8527; }
 .USDT { fill: #2CA07A; }
 .VIOR { fill: #1F52A4; }
