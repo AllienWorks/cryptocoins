@@ -63,7 +63,7 @@ Since v2.2 Cryptocoins are "rolling release", it doesn't make sense to log histo
 
 | Version | Changes |
 | :------ | :------ |
-| **2017/5** | added Heat Ledger (HEAT), Iconomi (ICN), Incent (INCNT), Komodo (KMD), Breakout (BRK), Breakout Stake (BRX), PIVX (PIVX), Triggers (TRIG), UBIQ (UBQ), Florincoin (FLO), Golem Network (GNT) |
+| **2017/5** | added Heat Ledger (HEAT), Iconomi (ICN), Incent (INCNT), Komodo (KMD), Breakout (BRK), Breakout Stake (BRX), PIVX (PIVX), Triggers (TRIG), UBIQ (UBQ), Florincoin (FLO), Golem Network (GNT) + switched to MIT licence |
 | **2.2** | removed webfont version, switched to "rolling release", added Ardor (ARDR), AuroraCoin (AUR), Blockfreight (BFT), GameCredits (GAME), Augur (REP), Waves (WAVES), Z-Cash (ZEC); updated Decred (DCR), Neos (NEOS), Stratis (STRAT) |
 | **2.1** | updated Peercoin (PPC), added AudioCoin (ADC), Bitsend (BSD), The DAO (DAO), Europecoin (ERC), Ethereum Classic (ETC), Goldcoin (GLD), Groestlcoin (GRS), Kobocoin (KOBO), LBRY (LBC), Pinkcoin (PINK), Reddcoin (RDD), RISE (RISE), Sia (SIA), Salus (SLS), SynergyCoin (SNRG), Steem (STEEM), Stratis (STRAT), BitSwift (SWIFT) |
 | **2.0** | tweaked styles for **separate namespace** (see issue #7), fixed Ripple (XRP) typo, added Digitalcoin (GDC), DigixDAO (DGD/DGX), Facton (FCT), Jumbucks (JBS), Lisk (LISK), PiggyCoin (PIGGY), Rubies (RBIES), Sarcoin (SAR), SterlingCoin (SLG), Tether (USDT), Zeitcoin (ZEIT) |
@@ -80,4 +80,4 @@ Since v2.2 Cryptocoins are "rolling release", it doesn't make sense to log histo
 Licence
 -------
 
-Released under [GNU GPL v2.0](LICENCE)
+Released under [The MIT License](LICENCE)
