@@ -1,0 +1,24 @@
+{
+  "name": "cryptocoins-icons",
+  "version": "2.3.0",
+  "description": "Cryptocoins is the most complete free vector/webfont iconpack of your favourite cryptocurrencies",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "pump": "^1.0.2",
+    "gulp-svgmin": "^1.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allienworks/cryptocoins.git"
+  },
+  "author": "Martin Allien <martin@allienworks.net> (https://allien.work)",
+  "license": "MIT",
+  "homepage": "https://github.com/allienworks/cryptocoins"
+}
