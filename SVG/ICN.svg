@@ -1,13 +1,1 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 226.8 226.8" style="enable-background:new 0 0 226.8 226.8;" xml:space="preserve">
-<g id="resources">
-	<g id="logo">
-		<polygon id="Clip-5" points="181.44,0 215.46,0 215.46,226.8 181.44,226.8 		"/>
-		<polygon id="Mask" points="124.74,113.4 158.76,113.4 158.76,226.8 124.74,226.8 		"/>
-		<polygon id="Clip-14" points="68.04,56.7 102.06,56.7 102.06,226.8 68.04,226.8 		"/>
-		<g id="Clip-11">
-			<polygon id="path-1_1_" points="11.34,170.1 45.36,170.1 45.36,226.8 11.34,226.8 			"/>
-		</g>
-	</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 226.8 226.8"><path d="M181.44 0h34.02v226.8h-34.02zm-56.7 113.4h34.02v113.4h-34.02zm-56.7-56.7h34.02v170.1H68.04zm-56.7 113.4h34.02v56.7H11.34z"/></svg>

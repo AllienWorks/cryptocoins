@@ -1,9 +1,1 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 226.8 226.8" style="enable-background:new 0 0 226.8 226.8;" xml:space="preserve">
-<g>
-	<polygon points="120.246,0 15.047,59.321 15.047,150.533 120.246,89.725 	"/>
-	<polygon points="83.291,191.905 83.291,122.116 24.295,156.347 	"/>
-	<polygon points="106.554,137.075 106.554,226.8 211.753,167.479 211.753,76.267 	"/>
-	<polygon points="143.509,34.895 143.509,104.684 202.505,70.453 	"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 226.8 226.8"><path d="M120.246 0L15.047 59.321v91.212l105.199-60.808zM83.291 191.905v-69.789l-58.996 34.231zM106.554 137.075V226.8l105.199-59.321V76.267zM143.509 34.895v69.789l58.996-34.231z"/></svg>
