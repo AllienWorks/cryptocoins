@@ -9,6 +9,12 @@ var gulp = require('gulp');
 var pump = require('pump');
 // SVGO - https://www.npmjs.com/package/gulp-svgmin
 var svgmin = require('gulp-svgmin');
+// Iconfont - https://github.com/nfroidure/gulp-iconfont
+var iconfont = require('gulp-iconfont');
+// Iconfont CSS - https://github.com/backflip/gulp-iconfont-css
+var iconfontCss = require('gulp-iconfont-css');
+
+var fontName = 'cryptocoins-icons';
 
 
 /* ------------------------------------ *\
@@ -18,6 +24,7 @@ var svgmin = require('gulp-svgmin');
 const paths = {
   input: 'SVG/**/*.svg',
   output: 'SVG/',
+  font_output: 'webfont/',
 }
 
 
@@ -25,10 +32,36 @@ const paths = {
     Tasks
 \* ------------------------------------ */
 
-gulp.task('default', function (cb) {
+gulp.task('optimize', function (cb) {
+  console.log('-- Optimizing SVG files');
   pump([
     gulp.src(paths.input),
     svgmin(),
     gulp.dest(paths.output),
   ], cb );
+});
+
+
+gulp.task('webfont', function (cb) {
+  console.log('-- Generating webfont');
+  pump([
+    gulp.src(paths.input),
+    iconfontCss({
+      fontName: fontName,
+      targetPath: 'cryptocoins.css',
+      cssClass: 'ico'
+    }),
+    iconfont({
+      fontName: fontName,
+      prependUnicode: true,
+      formats: ['ttf', 'eot', 'woff', 'woff2', 'svg'],
+      normalize: true,
+      fontHeight: 1001,
+     }),
+    gulp.dest(paths.font_output),
+  ], cb );
+});
+
+
+gulp.task('default', ['optimize', 'webfont'], function (){
 });
