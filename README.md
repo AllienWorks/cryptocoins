@@ -1,7 +1,9 @@
-Cryptocoins
-===========
+# Cryptocoins
 
 **Cryptocoins is the most complete free vector iconpack of your favourite cryptocurrencies.**
+
+[![Build Status](https://travis-ci.org/allienworks/cryptocoins.svg?branch=master)](https://travis-ci.org/allienworks/cryptocoins)
+[![npm version](https://badge.fury.io/js/cryptocoins-icons.svg)](https://badge.fury.io/js/cryptocoins-icons)
 
 Available in vector SVG format for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
 
@@ -11,15 +13,13 @@ Available in vector SVG format for taking advantage of small file sizes and unli
 
 ![Cryptocoins Preview](cryptocoins-preview.png)
 
-Docs & Demo
--------------------------
+## Docs & Demo
 
 * **Demo**: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins) `out-of-date` (new demo planned)
 * **Download**: clone or [download ZIP](https://github.com/allienworks/cryptocoins/archive/master.zip) directly from GitHub
 
 
-Requesting new icons
---------------------
+## Requesting new icons
 
 Initial release contains just a fraction of Altcoins. If you're missing your coin, please let me know so I can include it in next release. Since there are many requests lately and I can hardly keep up, **I have to ask you to follow these guidelines**:
 
@@ -31,8 +31,7 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 **This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, please donate. Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
 
 
-Installation
-------------
+## Installation
 
 See [detailed instruction on Wiki](https://github.com/allienworks/cryptocoins/wiki).
 
@@ -41,8 +40,7 @@ See [detailed instruction on Wiki](https://github.com/allienworks/cryptocoins/wi
 Having troubles and can't get it working? I'm here for you! Go ahead and write me at [@AllienWorks](https://twitter.com/AllienWorks) or [0x98EC204D](https://keybase.io/martin_allien).
 
 
-Author
-------
+## Author
 
 **Martin Allien**
 
@@ -56,13 +54,11 @@ Follow for updates and more stuff:
 * Twitter: [@AllienWorks](https://twitter.com/AllienWorks)
 
 
-Updates
--------
-
-Since v2.2 Cryptocoins are "rolling release", it doesn't make sense to log history anymore.
+## Updates
 
 | Version | Changes |
 | :------ | :------ |
+| **2017/6** | added Gulp task to optimize and check SVGs via Travis CI |
 | **2017/5** | added Heat Ledger (HEAT), Iconomi (ICN), Incent (INCNT), Komodo (KMD), Breakout (BRK), Breakout Stake (BRX), PIVX (PIVX), Triggers (TRIG), UBIQ (UBQ), Florincoin (FLO), Golem Network (GNT) + switched to MIT licence |
 | **2.2** | removed webfont version, switched to "rolling release", added Ardor (ARDR), AuroraCoin (AUR), Blockfreight (BFT), GameCredits (GAME), Augur (REP), Waves (WAVES), Z-Cash (ZEC); updated Decred (DCR), Neos (NEOS), Stratis (STRAT) |
 | **2.1** | updated Peercoin (PPC), added AudioCoin (ADC), Bitsend (BSD), The DAO (DAO), Europecoin (ERC), Ethereum Classic (ETC), Goldcoin (GLD), Groestlcoin (GRS), Kobocoin (KOBO), LBRY (LBC), Pinkcoin (PINK), Reddcoin (RDD), RISE (RISE), Sia (SIA), Salus (SLS), SynergyCoin (SNRG), Steem (STEEM), Stratis (STRAT), BitSwift (SWIFT) |
@@ -77,7 +73,6 @@ Since v2.2 Cryptocoins are "rolling release", it doesn't make sense to log histo
 | **1.0** | added Bitcoin (BTC), Litecoin (LTC), Namecoin (NMC), Dogecoin (DOGE), Peercoin (PPC), Darkcoin (DRK), Ripple (XRP), Bitshares (BTSX), Counterparty (XCP), NXT (NXT), Monero (XMR) |
 
 
-Licence
--------
+## Licence
 
 Released under [The MIT License](LICENCE)
