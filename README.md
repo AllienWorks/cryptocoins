@@ -5,11 +5,9 @@
 [![Build Status](https://travis-ci.org/allienworks/cryptocoins.svg?branch=master)](https://travis-ci.org/allienworks/cryptocoins)
 [![npm version](https://badge.fury.io/js/cryptocoins-icons.svg)](https://badge.fury.io/js/cryptocoins-icons)
 
-Available in vector SVG format for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
+Available in webfont & SVG format for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
 
 ----
-
-**Since 2.2 update, webfont version isn't included by default.** I will release webfont versions less often as it seems like nobody's really using it. Sucks? [Learn how to generate webfont by yourself](https://allien.work/blog/howto-generate-icon-webfont) – it's even better when you only include those you really need.
 
 ![Cryptocoins Preview](cryptocoins-preview.png)
 
@@ -17,6 +15,16 @@ Available in vector SVG format for taking advantage of small file sizes and unli
 
 * **Demo**: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins) `out-of-date` (new demo planned)
 * **Download**: clone or [download ZIP](https://github.com/allienworks/cryptocoins/archive/master.zip) directly from GitHub
+
+
+## Installation
+
+There are many ways/formats how to use Cryptocoins. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
+
+* **[via SVG](/allienworks/cryptocoins/wiki/SVG-version)** `recommended` – when you need just a few icons in your project
+* [Webfont version](/allienworks/cryptocoins/wiki/Webfont-version) – ideal when you want to include all icons at once
+    - _Pro tip:_ [Learn how to generate icon webfonts](https://allien.work/blog/howto-generate-icon-webfont) – it's even better when you only include those you really need
+* NPM package – `npm i cryptocoins-icons`
 
 
 ## Requesting new icons
@@ -28,16 +36,7 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 3. _(optional)_ you can include HEX code of the main color used in coin's branding and bitcointalk thread link (not mandatory, but saves me time)
 4. (optional) you can notify me on [@AllienWorks](https://twitter.com/AllienWorks) Twitter (also, helps spreading the word)
 
-**This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, please donate. Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
-
-
-## Installation
-
-See [detailed instruction on Wiki](https://github.com/allienworks/cryptocoins/wiki).
-
-### Still lost?
-
-Having troubles and can't get it working? I'm here for you! Go ahead and write me at [@AllienWorks](https://twitter.com/AllienWorks) or [0x98EC204D](https://keybase.io/martin_allien).
+**This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, [please donate](https://allien.work/donate). Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
 
 
 ## Author
@@ -45,21 +44,18 @@ Having troubles and can't get it working? I'm here for you! Go ahead and write m
 **Martin Allien**
 
 * Website: [allien.work](https://allien.work)
-* Keybase: [martin_allien](https://keybase.io/martin_allien)
-
-[Tip me crypto](https://allien.work/donate) and **support further development**!
-
-Follow for updates and more stuff:
-
+* Keybase/contact: [martin_allien](https://keybase.io/martin_allien)
 * Twitter: [@AllienWorks](https://twitter.com/AllienWorks)
+
+> [Tip me crypto](https://allien.work/donate) and **support further development**!
 
 
 ## Updates
 
 | Version | Changes |
 | :------ | :------ |
-| **2017/6** | added Gulp task to optimize and check SVGs via Travis CI |
-| **2017/5** | added Heat Ledger (HEAT), Iconomi (ICN), Incent (INCNT), Komodo (KMD), Breakout (BRK), Breakout Stake (BRX), PIVX (PIVX), Triggers (TRIG), UBIQ (UBQ), Florincoin (FLO), Golem Network (GNT) + switched to MIT licence |
+| **2.4** | added Gulp task to optimize and check SVGs via Travis CI, published npm package, re-added webfont version |
+| **2.3** | added Heat Ledger (HEAT), Iconomi (ICN), Incent (INCNT), Komodo (KMD), Breakout (BRK), Breakout Stake (BRX), PIVX (PIVX), Triggers (TRIG), UBIQ (UBQ), Florincoin (FLO), Golem Network (GNT) + switched to MIT licence |
 | **2.2** | removed webfont version, switched to "rolling release", added Ardor (ARDR), AuroraCoin (AUR), Blockfreight (BFT), GameCredits (GAME), Augur (REP), Waves (WAVES), Z-Cash (ZEC); updated Decred (DCR), Neos (NEOS), Stratis (STRAT) |
 | **2.1** | updated Peercoin (PPC), added AudioCoin (ADC), Bitsend (BSD), The DAO (DAO), Europecoin (ERC), Ethereum Classic (ETC), Goldcoin (GLD), Groestlcoin (GRS), Kobocoin (KOBO), LBRY (LBC), Pinkcoin (PINK), Reddcoin (RDD), RISE (RISE), Sia (SIA), Salus (SLS), SynergyCoin (SNRG), Steem (STEEM), Stratis (STRAT), BitSwift (SWIFT) |
 | **2.0** | tweaked styles for **separate namespace** (see issue #7), fixed Ripple (XRP) typo, added Digitalcoin (GDC), DigixDAO (DGD/DGX), Facton (FCT), Jumbucks (JBS), Lisk (LISK), PiggyCoin (PIGGY), Rubies (RBIES), Sarcoin (SAR), SterlingCoin (SLG), Tether (USDT), Zeitcoin (ZEIT) |
@@ -67,7 +63,7 @@ Follow for updates and more stuff:
 | **1.5** | added DigiByte (DGB), DogeCoinDark (DOGED), EmerCoin (EMC), Ethereum (ETH), MintCoin (MINT), MonaCoin (MONA), MicroCoin (MRC), NeuCoin (NEU), Novacoin (NVC), Rubycoin (RBY), updated BitBay |
 | **1.4** | added BitBay (BAY), Diamond (DMD), Franko (FRK), I/O Coin (IOC), LiteDoge (LDOGE), MasterTraderCoin (MTR), Monetary Unit (MUE), Sapience AIFX (XAI), Primecoin (XPM), updated BitStake (XBS) |
 | **1.3** | updated Darkcoin → Dash, added Infinitecoin (IFC), Vertcoin (VTC), NEM (XEM), DNotes (NOTE), Rimbit (RBT), GetGems (GEMZ), VeriCoin (VRC), ARCHcoin (ARCH), BitStake (XBS) |
-| **1.2.1** | added optional ```cryptocoins-colors.css``` for **coloring** all icons/coins |
+| **1.2.1** | added optional `cryptocoins-colors.css` for **coloring** all icons/coins |
 | **1.2** | added Bytecoin (BCN), Gridcoin (GRC), KoreCoin (KORE), MaidSafeCoin (MAID), Quark (QRK), SuperNET (UNITY), Viorcoin (VIOR), VPN coin (VPN) + updated BitShares (BTSX → BTS) |
 | **1.1** | added Stellar (STR), FuelCoin (FC2), BanxShares (BANX), NuBits/NuShares (NBT/NSR), BitcoinDark (BTCD), YbCoin (YBC), BlackCoin (BC), Mastercoin (MSC), Feathercoin (FTC), Sync (SYNC), PotCoin (POT), OpalCoin (OPAL), Shadow (SDC) |
 | **1.0** | added Bitcoin (BTC), Litecoin (LTC), Namecoin (NMC), Dogecoin (DOGE), Peercoin (PPC), Darkcoin (DRK), Ripple (XRP), Bitshares (BTSX), Counterparty (XCP), NXT (NXT), Monero (XMR) |

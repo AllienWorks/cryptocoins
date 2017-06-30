@@ -48,15 +48,17 @@ gulp.task('webfont', function (cb) {
     gulp.src(paths.input),
     iconfontCss({
       fontName: fontName,
+      path: 'src/icons-template.css',
       targetPath: 'cryptocoins.css',
-      cssClass: 'ico'
+      cssClass: 'cc'
     }),
     iconfont({
       fontName: fontName,
       prependUnicode: true,
-      formats: ['ttf', 'eot', 'woff', 'woff2', 'svg'],
+      formats: ['ttf', 'eot', 'woff'],
       normalize: true,
       fontHeight: 1001,
+      descent: 200,
      }),
     gulp.dest(paths.font_output),
   ], cb );
