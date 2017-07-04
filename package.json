@@ -12,7 +12,7 @@
     "icons",
     "icon"
   ],
-  "dependencies": {
+  "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-iconfont": "^8.0.1",
     "gulp-iconfont-css": "^2.1.0",

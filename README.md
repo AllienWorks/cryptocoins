@@ -26,6 +26,12 @@ There are many ways/formats how to use Cryptocoins. The fastest and recommended 
     - _Pro tip:_ [Learn how to generate icon webfonts](https://allien.work/blog/howto-generate-icon-webfont) – it's even better when you only include those you really need
 * NPM package – `npm i cryptocoins-icons`
 
+#### 3rd party Packages
+
+Built on/with Cryptocoins, these are maintained by the community. Use at your own risk:
+
+* React compoments – [@kirillshevch/react-cryptocoins](https://github.com/kirillshevch/react-cryptocoins)
+
 
 ## Requesting new icons
 
@@ -54,6 +60,7 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 
 | Version | Changes |
 | :------ | :------ |
+| **2.5** | added Basic Attention Token (BAT), IOTA (IOTA), Gnosis (GNO), Radium (RADS) |
 | **2.4** | added Gulp task to optimize and check SVGs via Travis CI, published npm package, re-added webfont version |
 | **2.3** | added Heat Ledger (HEAT), Iconomi (ICN), Incent (INCNT), Komodo (KMD), Breakout (BRK), Breakout Stake (BRX), PIVX (PIVX), Triggers (TRIG), UBIQ (UBQ), Florincoin (FLO), Golem Network (GNT) + switched to MIT licence |
 | **2.2** | removed webfont version, switched to "rolling release", added Ardor (ARDR), AuroraCoin (AUR), Blockfreight (BFT), GameCredits (GAME), Augur (REP), Waves (WAVES), Z-Cash (ZEC); updated Decred (DCR), Neos (NEOS), Stratis (STRAT) |
