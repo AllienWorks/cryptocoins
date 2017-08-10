@@ -21,8 +21,8 @@ Available in webfont & SVG format for taking advantage of small file sizes and u
 
 There are many ways/formats how to use Cryptocoins. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
 
-* **[via SVG](/allienworks/cryptocoins/wiki/SVG-version)** `recommended` – when you need just a few icons in your project
-* [Webfont version](/allienworks/cryptocoins/wiki/Webfont-version) – ideal when you want to include all icons at once
+* **[via SVG](https://github.com/allienworks/cryptocoins/wiki/SVG-version)** `recommended` – when you need just a few icons in your project
+* [Webfont version](https://github.com/allienworks/cryptocoins/wiki/Webfont-version) – ideal when you want to include all icons at once
     - _Pro tip:_ [Learn how to generate icon webfonts](https://allien.work/blog/howto-generate-icon-webfont) – it's even better when you only include those you really need
 * NPM package – `npm i cryptocoins-icons`
 
