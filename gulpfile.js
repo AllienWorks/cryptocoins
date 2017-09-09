@@ -55,7 +55,7 @@ gulp.task('webfont', function (cb) {
     iconfont({
       fontName: fontName,
       prependUnicode: true,
-      formats: ['ttf', 'eot', 'woff'],
+      formats: ['ttf', 'woff', 'woff2'],
       normalize: true,
       fontHeight: 1001,
       descent: 200,
