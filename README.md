@@ -13,7 +13,9 @@ Available in webfont & SVG format for taking advantage of small file sizes and u
 
 ## Docs & Demo
 
-* **Demo**: [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins) `out-of-date` (new demo planned)
+* **Demo**:
+    - [demo.html](demo.html) file contains simple webfont demo
+    - [labs.allienworks.net/icons/cryptocoins](http://labs.allienworks.net/icons/cryptocoins) (out-of-date, but animated, ha!)
 * **Download**: clone or [download ZIP](https://github.com/allienworks/cryptocoins/archive/master.zip) directly from GitHub
 
 
