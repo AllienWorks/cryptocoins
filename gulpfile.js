@@ -14,7 +14,7 @@ var iconfont = require('gulp-iconfont');
 // Iconfont CSS - https://github.com/backflip/gulp-iconfont-css
 var iconfontCss = require('gulp-iconfont-css');
 
-var fontName = 'cryptocoins-icons';
+var fontName = 'cryptocoins';
 
 
 /* ------------------------------------ *\
@@ -50,6 +50,7 @@ gulp.task('webfont', function (cb) {
       fontName: fontName,
       path: 'src/icons-template.css',
       targetPath: 'cryptocoins.css',
+      fontPath: '',
       cssClass: 'cc'
     }),
     iconfont({

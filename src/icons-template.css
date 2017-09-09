@@ -4,7 +4,7 @@
   font-family: "<%= fontName %>";
   src: url('<%= fontPath %><%= fontName %>.woff2') format('woff2'),
     url('<%= fontPath %><%= fontName %>.woff') format('woff'),
-    url('<%= fontPath %><%= fontName %>.ttf') format('truetype'),
+    url('<%= fontPath %><%= fontName %>.ttf') format('truetype');
 }
 
 /* .<%= cssClass %>:before { */
@@ -21,7 +21,7 @@
 }
 
 <% _.each(glyphs, function(glyph) { %>
-.<%= cssClass %>.<%= glyph.fileName %>:before {
+.<%= cssClass %>.<%= glyph.fileName %>::before {
   content: "\<%= glyph.codePoint %>";
 }
 <% }); %>
