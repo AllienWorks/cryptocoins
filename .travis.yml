@@ -1,9 +1,8 @@
+dist: trusty
+sudo: false
 language: node_js
 node_js:
-  - "iojs"
-before_script:
-  - npm install -g gulp-cli
-cache:
-  directories:
-    - "node_modules"
+  - "node"
+install:
+  - npm install
 script: gulp
