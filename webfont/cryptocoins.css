@@ -109,11 +109,11 @@
   content: "\E016";
 }
 
-.cc.BCC-alt::before {
+.cc.BCH-alt::before {
   content: "\E017";
 }
 
-.cc.BCC::before {
+.cc.BCH::before {
   content: "\E018";
 }
 
