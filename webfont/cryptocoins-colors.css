@@ -52,7 +52,7 @@
 .IFC { color: #ed272d; }
 .INCNT { color: #f2932f; }
 .IOC { color: #2fa3de; }
-.IOTA { color: #FFFFFF; }
+.IOTA, .MIOTA { color: #FFFFFF; }
 .JBS { color: #1A8BCD; }
 .KMD { color: #326464; }
 .KOBO { color: #80C342; }

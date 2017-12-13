@@ -453,11 +453,11 @@
   content: "\E06C";
 }
 
-.cc.IOTA-alt::before {
+.cc.IOTA-alt::before, .cc.MIOTA-alt::before {
   content: "\E06D";
 }
 
-.cc.IOTA::before {
+.cc.IOTA::before, .cc.MIOTA::before {
   content: "\E06E";
 }
 
