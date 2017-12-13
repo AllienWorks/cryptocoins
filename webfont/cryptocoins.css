@@ -461,6 +461,14 @@
   content: "\E06E";
 }
 
+.cc.MIOTA-alt::before {
+  content: "\E06D";
+}
+
+.cc.MIOTA::before {
+  content: "\E06E";
+}
+
 .cc.JBS-alt::before {
   content: "\E06F";
 }
