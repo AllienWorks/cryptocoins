@@ -62,6 +62,7 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 
 | Version | Changes |
 | :------ | :------ |
+| **2.7** | contributor @quoid added Ark (ARK), Byteball (GBYTE), Bytom (BTM), Cardano (ADA), QTUM (QTUM), SALT (SALT), Zcoin (XZC) – thanks much! + correctly renamed LISK → LSK and BCC → BCH |
 | **2.6** | fixed webfonts (again) & added webfont demo file, icons: added Bitcoin Cash (BCC), Decent (DCT), EOS (EOS), Golos (GOLOS), Monaco (MCO), NEO (NEO), OmiseGO (OMG), Particl (PART), Tezos (XTZ) |
 | **2.5** | added Basic Attention Token (BAT), IOTA (IOTA), Gnosis (GNO), Radium (RADS) |
 | **2.4** | added Gulp task to optimize and check SVGs via Travis CI, published npm package, re-added webfont version |
