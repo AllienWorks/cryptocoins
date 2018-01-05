@@ -1,0 +1,891 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+html {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-touch-callout: none; }
+
+html,
+body {
+  background-color: #eaeaea;
+  font-family: -apple-system, "Helvetica Neue", "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.5; }
+
+body {
+  margin: 0;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+body {
+  text-align: center; }
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 24px; }
+
+.cc {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 85%;
+  position: relative;
+  height: 192px;
+  width: 16.6666666667%;
+  margin-bottom: 24px; }
+  @media screen and (max-width: 1005px) {
+    .cc {
+      width: 25%; } }
+  @media screen and (max-width: 800px) {
+    .cc {
+      width: 33.3333333333%; } }
+  .cc > span {
+    text-transform: uppercase;
+    position: absolute;
+    bottom: -12px;
+    left: 0;
+    font-size: 10px;
+    width: 100%;
+    font-weight: 600; }
+
+.cc.Incent, .cc.incnt {
+  background-image: url("../svg/original/Incent_incnt.svg"); }
+
+.cc.Incent-alt, .cc.incnt-alt {
+  background-image: url("../svg/alt/Incent_incnt-alt.svg"); }
+
+.cc.aeon, .cc.aeon {
+  background-image: url("../svg/original/aeon_aeon.svg"); }
+
+.cc.aeon-alt, .cc.aeon-alt {
+  background-image: url("../svg/alt/aeon_aeon-alt.svg"); }
+
+.cc.anoncoin, .cc.anc {
+  background-image: url("../svg/original/anoncoin_anc.svg"); }
+
+.cc.anoncoin-alt, .cc.anc-alt {
+  background-image: url("../svg/alt/anoncoin_anc-alt.svg"); }
+
+.cc.ardor, .cc.ardr {
+  background-image: url("../svg/original/ardor_ardr.svg"); }
+
+.cc.ardor-alt, .cc.ardr-alt {
+  background-image: url("../svg/alt/ardor_ardr-alt.svg"); }
+
+.cc.ark, .cc.ark {
+  background-image: url("../svg/original/ark_ark.svg"); }
+
+.cc.ark-alt, .cc.ark-alt {
+  background-image: url("../svg/alt/ark_ark-alt.svg"); }
+
+.cc.audiocoin, .cc.adc {
+  background-image: url("../svg/original/audiocoin_adc.svg"); }
+
+.cc.audiocoin-alt, .cc.adc-alt {
+  background-image: url("../svg/alt/audiocoin_adc-alt.svg"); }
+
+.cc.augur, .cc.rep {
+  background-image: url("../svg/original/augur_rep.svg"); }
+
+.cc.augur-alt, .cc.rep-alt {
+  background-image: url("../svg/alt/augur_rep-alt.svg"); }
+
+.cc.auroracoin, .cc.aur {
+  background-image: url("../svg/original/auroracoin_aur.svg"); }
+
+.cc.auroracoin-alt, .cc.aur-alt {
+  background-image: url("../svg/alt/auroracoin_aur-alt.svg"); }
+
+.cc.basicattentiontoken, .cc.bat {
+  background-image: url("../svg/original/basicattentiontoken_bat.svg"); }
+
+.cc.basicattentiontoken-alt, .cc.bat-alt {
+  background-image: url("../svg/alt/basicattentiontoken_bat-alt.svg"); }
+
+.cc.bata, .cc.bta {
+  background-image: url("../svg/original/bata_bta.svg"); }
+
+.cc.bata-alt, .cc.bta-alt {
+  background-image: url("../svg/alt/bata_bta-alt.svg"); }
+
+.cc.binancecoin, .cc.bnb {
+  background-image: url("../svg/original/binancecoin_bnb.svg"); }
+
+.cc.binancecoin-alt, .cc.bnb-alt {
+  background-image: url("../svg/alt/binancecoin_bnb-alt.svg"); }
+
+.cc.bitbay, .cc.bay {
+  background-image: url("../svg/original/bitbay_bay.svg"); }
+
+.cc.bitbay-alt, .cc.bay-alt {
+  background-image: url("../svg/alt/bitbay_bay-alt.svg"); }
+
+.cc.bitcoin, .cc.btc {
+  background-image: url("../svg/original/bitcoin_btc.svg"); }
+
+.cc.bitcoin-alt, .cc.btc-alt {
+  background-image: url("../svg/alt/bitcoin_btc-alt.svg"); }
+
+.cc.bitcoincash, .cc.bch {
+  background-image: url("../svg/original/bitcoincash_bch.svg"); }
+
+.cc.bitcoincash-alt, .cc.bch-alt {
+  background-image: url("../svg/alt/bitcoincash_bch-alt.svg"); }
+
+.cc.bitcoindark, .cc.btcd {
+  background-image: url("../svg/original/bitcoindark_btcd.svg"); }
+
+.cc.bitcoindark-alt, .cc.btcd-alt {
+  background-image: url("../svg/alt/bitcoindark_btcd-alt.svg"); }
+
+.cc.bitcoingold, .cc.btg {
+  background-image: url("../svg/original/bitcoingold_btg.svg"); }
+
+.cc.bitcoingold-alt, .cc.btg-alt {
+  background-image: url("../svg/alt/bitcoingold_btg-alt.svg"); }
+
+.cc.bitconnect, .cc.bcc {
+  background-image: url("../svg/original/bitconnect_bcc.svg"); }
+
+.cc.bitconnect-alt, .cc.bcc-alt {
+  background-image: url("../svg/alt/bitconnect_bcc-alt.svg"); }
+
+.cc.bitsend, .cc.bsd {
+  background-image: url("../svg/original/bitsend_bsd.svg"); }
+
+.cc.bitsend-alt, .cc.bsd-alt {
+  background-image: url("../svg/alt/bitsend_bsd-alt.svg"); }
+
+.cc.bitshares, .cc.bts {
+  background-image: url("../svg/original/bitshares_bts.svg"); }
+
+.cc.bitshares-alt, .cc.bts-alt {
+  background-image: url("../svg/alt/bitshares_bts-alt.svg"); }
+
+.cc.bitswift, .cc.swift {
+  background-image: url("../svg/original/bitswift_swift.svg"); }
+
+.cc.bitswift-alt, .cc.swift-alt {
+  background-image: url("../svg/alt/bitswift_swift-alt.svg"); }
+
+.cc.blackcoin, .cc.blk {
+  background-image: url("../svg/original/blackcoin_blk.svg"); }
+
+.cc.blackcoin-alt, .cc.blk-alt {
+  background-image: url("../svg/alt/blackcoin_blk-alt.svg"); }
+
+.cc.blockfreight, .cc.bft {
+  background-image: url("../svg/original/blockfreight_bft.svg"); }
+
+.cc.blockfreight-alt, .cc.bft-alt {
+  background-image: url("../svg/alt/blockfreight_bft-alt.svg"); }
+
+.cc.breakout, .cc.brk {
+  background-image: url("../svg/original/breakout_brk.svg"); }
+
+.cc.breakout-alt, .cc.brk-alt {
+  background-image: url("../svg/alt/breakout_brk-alt.svg"); }
+
+.cc.breakout, .cc.tak {
+  background-image: url("../svg/original/breakout_tak.svg"); }
+
+.cc.breakout-alt, .cc.tak-alt {
+  background-image: url("../svg/alt/breakout_tak-alt.svg"); }
+
+.cc.byteballbytes, .cc.gbyte {
+  background-image: url("../svg/original/byteballbytes_gbyte.svg"); }
+
+.cc.byteballbytes-alt, .cc.gbyte-alt {
+  background-image: url("../svg/alt/byteballbytes_gbyte-alt.svg"); }
+
+.cc.bytecoin, .cc.bcn {
+  background-image: url("../svg/original/bytecoin_bcn.svg"); }
+
+.cc.bytecoin-alt, .cc.bcn-alt {
+  background-image: url("../svg/alt/bytecoin_bcn-alt.svg"); }
+
+.cc.bytom, .cc.btm {
+  background-image: url("../svg/original/bytom_btm.svg"); }
+
+.cc.bytom-alt, .cc.btm-alt {
+  background-image: url("../svg/alt/bytom_btm-alt.svg"); }
+
+.cc.cardano, .cc.ada {
+  background-image: url("../svg/original/cardano_ada.svg"); }
+
+.cc.cardano-alt, .cc.ada-alt {
+  background-image: url("../svg/alt/cardano_ada-alt.svg"); }
+
+.cc.clams, .cc.clam {
+  background-image: url("../svg/original/clams_clam.svg"); }
+
+.cc.clams-alt, .cc.clam-alt {
+  background-image: url("../svg/alt/clams_clam-alt.svg"); }
+
+.cc.cloakcoin, .cc.cloak {
+  background-image: url("../svg/original/cloakcoin_cloak.svg"); }
+
+.cc.cloakcoin-alt, .cc.cloak-alt {
+  background-image: url("../svg/alt/cloakcoin_cloak-alt.svg"); }
+
+.cc.counterparty, .cc.xcb {
+  background-image: url("../svg/original/counterparty_xcb.svg"); }
+
+.cc.counterparty-alt, .cc.xcb-alt {
+  background-image: url("../svg/alt/counterparty_xcb-alt.svg"); }
+
+.cc.dash, .cc.dash {
+  background-image: url("../svg/original/dash_dash.svg"); }
+
+.cc.dash-alt, .cc.dash-alt {
+  background-image: url("../svg/alt/dash_dash-alt.svg"); }
+
+.cc.decent, .cc.dct {
+  background-image: url("../svg/original/decent_dct.svg"); }
+
+.cc.decent-alt, .cc.dct-alt {
+  background-image: url("../svg/alt/decent_dct-alt.svg"); }
+
+.cc.decred, .cc.dcr {
+  background-image: url("../svg/original/decred_dcr.svg"); }
+
+.cc.decred-alt, .cc.dcr-alt {
+  background-image: url("../svg/alt/decred_dcr-alt.svg"); }
+
+.cc.diamond, .cc.dmd {
+  background-image: url("../svg/original/diamond_dmd.svg"); }
+
+.cc.diamond-alt, .cc.dmd-alt {
+  background-image: url("../svg/alt/diamond_dmd-alt.svg"); }
+
+.cc.digibyte, .cc.dgb {
+  background-image: url("../svg/original/digibyte_dgb.svg"); }
+
+.cc.digibyte-alt, .cc.dgb-alt {
+  background-image: url("../svg/alt/digibyte_dgb-alt.svg"); }
+
+.cc.digixdao, .cc.dgd {
+  background-image: url("../svg/original/digixdao_dgd.svg"); }
+
+.cc.digixdao-alt, .cc.dgd-alt {
+  background-image: url("../svg/alt/digixdao_dgd-alt.svg"); }
+
+.cc.dnotes, .cc.note {
+  background-image: url("../svg/original/dnotes_note.svg"); }
+
+.cc.dnotes-alt, .cc.note-alt {
+  background-image: url("../svg/alt/dnotes_note-alt.svg"); }
+
+.cc.dogecoin, .cc.doge {
+  background-image: url("../svg/original/dogecoin_doge.svg"); }
+
+.cc.dogecoin-alt, .cc.doge-alt {
+  background-image: url("../svg/alt/dogecoin_doge-alt.svg"); }
+
+.cc.einsteinium, .cc.emc2 {
+  background-image: url("../svg/original/einsteinium_emc2.svg"); }
+
+.cc.einsteinium-alt, .cc.emc2-alt {
+  background-image: url("../svg/alt/einsteinium_emc2-alt.svg"); }
+
+.cc.emercoin, .cc.emc {
+  background-image: url("../svg/original/emercoin_emc.svg"); }
+
+.cc.emercoin-alt, .cc.emc-alt {
+  background-image: url("../svg/alt/emercoin_emc-alt.svg"); }
+
+.cc.eos, .cc.eos {
+  background-image: url("../svg/original/eos_eos.svg"); }
+
+.cc.eos-alt, .cc.eos-alt {
+  background-image: url("../svg/alt/eos_eos-alt.svg"); }
+
+.cc.ethereum, .cc.eth {
+  background-image: url("../svg/original/ethereum_eth.svg"); }
+
+.cc.ethereum-alt, .cc.eth-alt {
+  background-image: url("../svg/alt/ethereum_eth-alt.svg"); }
+
+.cc.ethereumclassic, .cc.etc {
+  background-image: url("../svg/original/ethereumclassic_etc.svg"); }
+
+.cc.ethereumclassic-alt, .cc.etc-alt {
+  background-image: url("../svg/alt/ethereumclassic_etc-alt.svg"); }
+
+.cc.europecoin, .cc.erc {
+  background-image: url("../svg/original/europecoin_erc.svg"); }
+
+.cc.europecoin-alt, .cc.erc-alt {
+  background-image: url("../svg/alt/europecoin_erc-alt.svg"); }
+
+.cc.factom, .cc.fct {
+  background-image: url("../svg/original/factom_fct.svg"); }
+
+.cc.factom-alt, .cc.fct-alt {
+  background-image: url("../svg/alt/factom_fct-alt.svg"); }
+
+.cc.feathercoin, .cc.ftc {
+  background-image: url("../svg/original/feathercoin_ftc.svg"); }
+
+.cc.feathercoin-alt, .cc.ftc-alt {
+  background-image: url("../svg/alt/feathercoin_ftc-alt.svg"); }
+
+.cc.florincoin, .cc.flo {
+  background-image: url("../svg/original/florincoin_flo.svg"); }
+
+.cc.florincoin-alt, .cc.flo-alt {
+  background-image: url("../svg/alt/florincoin_flo-alt.svg"); }
+
+.cc.franko, .cc.frk {
+  background-image: url("../svg/original/franko_frk.svg"); }
+
+.cc.franko-alt, .cc.frk-alt {
+  background-image: url("../svg/alt/franko_frk-alt.svg"); }
+
+.cc.gamecredits, .cc.game {
+  background-image: url("../svg/original/gamecredits_game.svg"); }
+
+.cc.gamecredits-alt, .cc.game-alt {
+  background-image: url("../svg/alt/gamecredits_game-alt.svg"); }
+
+.cc.gnosis, .cc.gno {
+  background-image: url("../svg/original/gnosis_gno.svg"); }
+
+.cc.gnosis-alt, .cc.gno-alt {
+  background-image: url("../svg/alt/gnosis_gno-alt.svg"); }
+
+.cc.goldcoin, .cc.gld {
+  background-image: url("../svg/original/goldcoin_gld.svg"); }
+
+.cc.goldcoin-alt, .cc.gld-alt {
+  background-image: url("../svg/alt/goldcoin_gld-alt.svg"); }
+
+.cc.golem, .cc.gnt {
+  background-image: url("../svg/original/golem_gnt.svg"); }
+
+.cc.golem-alt, .cc.gnt-alt {
+  background-image: url("../svg/alt/golem_gnt-alt.svg"); }
+
+.cc.golos, .cc.golos {
+  background-image: url("../svg/original/golos_golos.svg"); }
+
+.cc.golos-alt, .cc.golos-alt {
+  background-image: url("../svg/alt/golos_golos-alt.svg"); }
+
+.cc.gridcoin, .cc.grc {
+  background-image: url("../svg/original/gridcoin_grc.svg"); }
+
+.cc.gridcoin-alt, .cc.grc-alt {
+  background-image: url("../svg/alt/gridcoin_grc-alt.svg"); }
+
+.cc.groestlcoin, .cc.grs {
+  background-image: url("../svg/original/groestlcoin_grs.svg"); }
+
+.cc.groestlcoin-alt, .cc.grs-alt {
+  background-image: url("../svg/alt/groestlcoin_grs-alt.svg"); }
+
+.cc.gulden, .cc.nlg {
+  background-image: url("../svg/original/gulden_nlg.svg"); }
+
+.cc.gulden-alt, .cc.nlg-alt {
+  background-image: url("../svg/alt/gulden_nlg-alt.svg"); }
+
+.cc.hcash, .cc.hsr {
+  background-image: url("../svg/original/hcash_hsr.svg"); }
+
+.cc.hcash-alt, .cc.hsr-alt {
+  background-image: url("../svg/alt/hcash_hsr-alt.svg"); }
+
+.cc.heat, .cc.heat {
+  background-image: url("../svg/original/heat_heat.svg"); }
+
+.cc.heat-alt, .cc.heat-alt {
+  background-image: url("../svg/alt/heat_heat-alt.svg"); }
+
+.cc.iconomi, .cc.icn {
+  background-image: url("../svg/original/iconomi_icn.svg"); }
+
+.cc.iconomi-alt, .cc.icn-alt {
+  background-image: url("../svg/alt/iconomi_icn-alt.svg"); }
+
+.cc.iocoin, .cc.ioc {
+  background-image: url("../svg/original/iocoin_ioc.svg"); }
+
+.cc.iocoin-alt, .cc.ioc-alt {
+  background-image: url("../svg/alt/iocoin_ioc-alt.svg"); }
+
+.cc.iota, .cc.miota {
+  background-image: url("../svg/original/iota_miota.svg"); }
+
+.cc.iota-alt, .cc.miota-alt {
+  background-image: url("../svg/alt/iota_miota-alt.svg"); }
+
+.cc.kobocoin, .cc.kobo {
+  background-image: url("../svg/original/kobocoin_kobo.svg"); }
+
+.cc.kobocoin-alt, .cc.kobo-alt {
+  background-image: url("../svg/alt/kobocoin_kobo-alt.svg"); }
+
+.cc.komodo, .cc.kmd {
+  background-image: url("../svg/original/komodo_kmd.svg"); }
+
+.cc.komodo-alt, .cc.kmd-alt {
+  background-image: url("../svg/alt/komodo_kmd-alt.svg"); }
+
+.cc.kore, .cc.kore {
+  background-image: url("../svg/original/kore_kore.svg"); }
+
+.cc.kore-alt, .cc.kore-alt {
+  background-image: url("../svg/alt/kore_kore-alt.svg"); }
+
+.cc.lbrycredits, .cc.lbc {
+  background-image: url("../svg/original/lbrycredits_lbc.svg"); }
+
+.cc.lbrycredits-alt, .cc.lbc-alt {
+  background-image: url("../svg/alt/lbrycredits_lbc-alt.svg"); }
+
+.cc.lisk, .cc.lsk {
+  background-image: url("../svg/original/lisk_lsk.svg"); }
+
+.cc.lisk-alt, .cc.lsk-alt {
+  background-image: url("../svg/alt/lisk_lsk-alt.svg"); }
+
+.cc.litecoin, .cc.ltc {
+  background-image: url("../svg/original/litecoin_ltc.svg"); }
+
+.cc.litecoin-alt, .cc.ltc-alt {
+  background-image: url("../svg/alt/litecoin_ltc-alt.svg"); }
+
+.cc.litedoge, .cc.ldoge {
+  background-image: url("../svg/original/litedoge_ldoge.svg"); }
+
+.cc.litedoge-alt, .cc.ldoge-alt {
+  background-image: url("../svg/alt/litedoge_ldoge-alt.svg"); }
+
+.cc.maidsafecoin, .cc.maid {
+  background-image: url("../svg/original/maidsafecoin_maid.svg"); }
+
+.cc.maidsafecoin-alt, .cc.maid-alt {
+  background-image: url("../svg/alt/maidsafecoin_maid-alt.svg"); }
+
+.cc.microcoin, .cc.mrc {
+  background-image: url("../svg/original/microcoin_mrc.svg"); }
+
+.cc.microcoin-alt, .cc.mrc-alt {
+  background-image: url("../svg/alt/microcoin_mrc-alt.svg"); }
+
+.cc.mintcoin, .cc.mint {
+  background-image: url("../svg/original/mintcoin_mint.svg"); }
+
+.cc.mintcoin-alt, .cc.mint-alt {
+  background-image: url("../svg/alt/mintcoin_mint-alt.svg"); }
+
+.cc.monaco, .cc.mco {
+  background-image: url("../svg/original/monaco_mco.svg"); }
+
+.cc.monaco-alt, .cc.mco-alt {
+  background-image: url("../svg/alt/monaco_mco-alt.svg"); }
+
+.cc.monacoin, .cc.mona {
+  background-image: url("../svg/original/monacoin_mona.svg"); }
+
+.cc.monacoin-alt, .cc.mona-alt {
+  background-image: url("../svg/alt/monacoin_mona-alt.svg"); }
+
+.cc.monero, .cc.xmr {
+  background-image: url("../svg/original/monero_xmr.svg"); }
+
+.cc.monero-alt, .cc.xmr-alt {
+  background-image: url("../svg/alt/monero_xmr-alt.svg"); }
+
+.cc.monetaryunit, .cc.mue {
+  background-image: url("../svg/original/monetaryunit_mue.svg"); }
+
+.cc.monetaryunit-alt, .cc.mue-alt {
+  background-image: url("../svg/alt/monetaryunit_mue-alt.svg"); }
+
+.cc.namecoin, .cc.nmc {
+  background-image: url("../svg/original/namecoin_nmc.svg"); }
+
+.cc.namecoin-alt, .cc.nmc-alt {
+  background-image: url("../svg/alt/namecoin_nmc-alt.svg"); }
+
+.cc.neblio, .cc.nebl {
+  background-image: url("../svg/original/neblio_nebl.svg"); }
+
+.cc.neblio-alt, .cc.nebl-alt {
+  background-image: url("../svg/alt/neblio_nebl-alt.svg"); }
+
+.cc.nem, .cc.xem {
+  background-image: url("../svg/original/nem_xem.svg"); }
+
+.cc.nem-alt, .cc.xem-alt {
+  background-image: url("../svg/alt/nem_xem-alt.svg"); }
+
+.cc.neo, .cc.neo {
+  background-image: url("../svg/original/neo_neo.svg"); }
+
+.cc.neo-alt, .cc.neo-alt {
+  background-image: url("../svg/alt/neo_neo-alt.svg"); }
+
+.cc.neoscoin, .cc.neos {
+  background-image: url("../svg/original/neoscoin_neos.svg"); }
+
+.cc.neoscoin-alt, .cc.neos-alt {
+  background-image: url("../svg/alt/neoscoin_neos-alt.svg"); }
+
+.cc.neucoin, .cc.neu {
+  background-image: url("../svg/original/neucoin_neu.svg"); }
+
+.cc.neucoin-alt, .cc.neu-alt {
+  background-image: url("../svg/alt/neucoin_neu-alt.svg"); }
+
+.cc.novacoin, .cc.nvc {
+  background-image: url("../svg/original/novacoin_nvc.svg"); }
+
+.cc.novacoin-alt, .cc.nvc-alt {
+  background-image: url("../svg/alt/novacoin_nvc-alt.svg"); }
+
+.cc.nubits, .cc.usnbt {
+  background-image: url("../svg/original/nubits_usnbt.svg"); }
+
+.cc.nubits-alt, .cc.usnbt-alt {
+  background-image: url("../svg/alt/nubits_usnbt-alt.svg"); }
+
+.cc.nxt, .cc.nxt {
+  background-image: url("../svg/original/nxt_nxt.svg"); }
+
+.cc.nxt-alt, .cc.nxt-alt {
+  background-image: url("../svg/alt/nxt_nxt-alt.svg"); }
+
+.cc.okcash, .cc.ok {
+  background-image: url("../svg/original/okcash_ok.svg"); }
+
+.cc.okcash-alt, .cc.ok-alt {
+  background-image: url("../svg/alt/okcash_ok-alt.svg"); }
+
+.cc.omisego, .cc.omg {
+  background-image: url("../svg/original/omisego_omg.svg"); }
+
+.cc.omisego-alt, .cc.omg-alt {
+  background-image: url("../svg/alt/omisego_omg-alt.svg"); }
+
+.cc.omni, .cc.omni {
+  background-image: url("../svg/original/omni_omni.svg"); }
+
+.cc.omni-alt, .cc.omni-alt {
+  background-image: url("../svg/alt/omni_omni-alt.svg"); }
+
+.cc.opal, .cc.opal {
+  background-image: url("../svg/original/opal_opal.svg"); }
+
+.cc.opal-alt, .cc.opal-alt {
+  background-image: url("../svg/alt/opal_opal-alt.svg"); }
+
+.cc.particl, .cc.part {
+  background-image: url("../svg/original/particl_part.svg"); }
+
+.cc.particl-alt, .cc.part-alt {
+  background-image: url("../svg/alt/particl_part-alt.svg"); }
+
+.cc.peercoin, .cc.ppc {
+  background-image: url("../svg/original/peercoin_ppc.svg"); }
+
+.cc.peercoin-alt, .cc.ppc-alt {
+  background-image: url("../svg/alt/peercoin_ppc-alt.svg"); }
+
+.cc.piggycoin, .cc.piggy {
+  background-image: url("../svg/original/piggycoin_piggy.svg"); }
+
+.cc.piggycoin-alt, .cc.piggy-alt {
+  background-image: url("../svg/alt/piggycoin_piggy-alt.svg"); }
+
+.cc.pinkcoin, .cc.pink {
+  background-image: url("../svg/original/pinkcoin_pink.svg"); }
+
+.cc.pinkcoin-alt, .cc.pink-alt {
+  background-image: url("../svg/alt/pinkcoin_pink-alt.svg"); }
+
+.cc.pivx, .cc.pivx {
+  background-image: url("../svg/original/pivx_pivx.svg"); }
+
+.cc.pivx-alt, .cc.pivx-alt {
+  background-image: url("../svg/alt/pivx_pivx-alt.svg"); }
+
+.cc.populous, .cc.ppt {
+  background-image: url("../svg/original/populous_ppt.svg"); }
+
+.cc.populous-alt, .cc.ppt-alt {
+  background-image: url("../svg/alt/populous_ppt-alt.svg"); }
+
+.cc.potcoin, .cc.pot {
+  background-image: url("../svg/original/potcoin_pot.svg"); }
+
+.cc.potcoin-alt, .cc.pot-alt {
+  background-image: url("../svg/alt/potcoin_pot-alt.svg"); }
+
+.cc.primecoin, .cc.xpm {
+  background-image: url("../svg/original/primecoin_xpm.svg"); }
+
+.cc.primecoin-alt, .cc.xpm-alt {
+  background-image: url("../svg/alt/primecoin_xpm-alt.svg"); }
+
+.cc.qash, .cc.qash {
+  background-image: url("../svg/original/qash_qash.svg"); }
+
+.cc.qash-alt, .cc.qash-alt {
+  background-image: url("../svg/alt/qash_qash-alt.svg"); }
+
+.cc.qtum, .cc.qtum {
+  background-image: url("../svg/original/qtum_qtum.svg"); }
+
+.cc.qtum-alt, .cc.qtum-alt {
+  background-image: url("../svg/alt/qtum_qtum-alt.svg"); }
+
+.cc.quark, .cc.qrk {
+  background-image: url("../svg/original/quark_qrk.svg"); }
+
+.cc.quark-alt, .cc.qrk-alt {
+  background-image: url("../svg/alt/quark_qrk-alt.svg"); }
+
+.cc.radium, .cc.rads {
+  background-image: url("../svg/original/radium_rads.svg"); }
+
+.cc.radium-alt, .cc.rads-alt {
+  background-image: url("../svg/alt/radium_rads-alt.svg"); }
+
+.cc.raiblocks, .cc.xrb {
+  background-image: url("../svg/original/raiblocks_xrb.svg"); }
+
+.cc.raiblocks-alt, .cc.xrb-alt {
+  background-image: url("../svg/alt/raiblocks_xrb-alt.svg"); }
+
+.cc.reddcoin, .cc.rdd {
+  background-image: url("../svg/original/reddcoin_rdd.svg"); }
+
+.cc.reddcoin-alt, .cc.rdd-alt {
+  background-image: url("../svg/alt/reddcoin_rdd-alt.svg"); }
+
+.cc.rimbit, .cc.rbt {
+  background-image: url("../svg/original/rimbit_rbt.svg"); }
+
+.cc.rimbit-alt, .cc.rbt-alt {
+  background-image: url("../svg/alt/rimbit_rbt-alt.svg"); }
+
+.cc.ripple, .cc.xrp {
+  background-image: url("../svg/original/ripple_xrp.svg"); }
+
+.cc.ripple-alt, .cc.xrp-alt {
+  background-image: url("../svg/alt/ripple_xrp-alt.svg"); }
+
+.cc.rise, .cc.rise {
+  background-image: url("../svg/original/rise_rise.svg"); }
+
+.cc.rise-alt, .cc.rise-alt {
+  background-image: url("../svg/alt/rise_rise-alt.svg"); }
+
+.cc.rubies, .cc.rbies {
+  background-image: url("../svg/original/rubies_rbies.svg"); }
+
+.cc.rubies-alt, .cc.rbies-alt {
+  background-image: url("../svg/alt/rubies_rbies-alt.svg"); }
+
+.cc.rubycoin, .cc.rby {
+  background-image: url("../svg/original/rubycoin_rby.svg"); }
+
+.cc.rubycoin-alt, .cc.rby-alt {
+  background-image: url("../svg/alt/rubycoin_rby-alt.svg"); }
+
+.cc.salt, .cc.salt {
+  background-image: url("../svg/original/salt_salt.svg"); }
+
+.cc.salt-alt, .cc.salt-alt {
+  background-image: url("../svg/alt/salt_salt-alt.svg"); }
+
+.cc.salus, .cc.sls {
+  background-image: url("../svg/original/salus_sls.svg"); }
+
+.cc.salus-alt, .cc.sls-alt {
+  background-image: url("../svg/alt/salus_sls-alt.svg"); }
+
+.cc.scotcoin, .cc.scot {
+  background-image: url("../svg/original/scotcoin_scot.svg"); }
+
+.cc.scotcoin-alt, .cc.scot-alt {
+  background-image: url("../svg/alt/scotcoin_scot-alt.svg"); }
+
+.cc.shadowcash, .cc.sdc {
+  background-image: url("../svg/original/shadowcash_sdc.svg"); }
+
+.cc.shadowcash-alt, .cc.sdc-alt {
+  background-image: url("../svg/alt/shadowcash_sdc-alt.svg"); }
+
+.cc.siacoin, .cc.sc {
+  background-image: url("../svg/original/siacoin_sc.svg"); }
+
+.cc.siacoin-alt, .cc.sc-alt {
+  background-image: url("../svg/alt/siacoin_sc-alt.svg"); }
+
+.cc.startcoin, .cc.start {
+  background-image: url("../svg/original/startcoin_start.svg"); }
+
+.cc.startcoin-alt, .cc.start-alt {
+  background-image: url("../svg/alt/startcoin_start-alt.svg"); }
+
+.cc.status, .cc.snt {
+  background-image: url("../svg/original/status_snt.svg"); }
+
+.cc.status-alt, .cc.snt-alt {
+  background-image: url("../svg/alt/status_snt-alt.svg"); }
+
+.cc.steem, .cc.steem {
+  background-image: url("../svg/original/steem_steem.svg"); }
+
+.cc.steem-alt, .cc.steem-alt {
+  background-image: url("../svg/alt/steem_steem-alt.svg"); }
+
+.cc.stellar, .cc.xlm {
+  background-image: url("../svg/original/stellar_xlm.svg"); }
+
+.cc.stellar-alt, .cc.xlm-alt {
+  background-image: url("../svg/alt/stellar_xlm-alt.svg"); }
+
+.cc.sterlingcoin, .cc.slg {
+  background-image: url("../svg/original/sterlingcoin_slg.svg"); }
+
+.cc.sterlingcoin-alt, .cc.slg-alt {
+  background-image: url("../svg/alt/sterlingcoin_slg-alt.svg"); }
+
+.cc.storjcoinx, .cc.sjcx {
+  background-image: url("../svg/original/storjcoinx_sjcx.svg"); }
+
+.cc.storjcoinx-alt, .cc.sjcx-alt {
+  background-image: url("../svg/alt/storjcoinx_sjcx-alt.svg"); }
+
+.cc.stratis, .cc.strat {
+  background-image: url("../svg/original/stratis_strat.svg"); }
+
+.cc.stratis-alt, .cc.strat-alt {
+  background-image: url("../svg/alt/stratis_strat-alt.svg"); }
+
+.cc.supernet, .cc.unity {
+  background-image: url("../svg/original/supernet_unity.svg"); }
+
+.cc.supernet-alt, .cc.unity-alt {
+  background-image: url("../svg/alt/supernet_unity-alt.svg"); }
+
+.cc.sync, .cc.sync {
+  background-image: url("../svg/original/sync_sync.svg"); }
+
+.cc.sync-alt, .cc.sync-alt {
+  background-image: url("../svg/alt/sync_sync-alt.svg"); }
+
+.cc.synereo, .cc.amp {
+  background-image: url("../svg/original/synereo_amp.svg"); }
+
+.cc.synereo-alt, .cc.amp-alt {
+  background-image: url("../svg/alt/synereo_amp-alt.svg"); }
+
+.cc.synergy, .cc.snrg {
+  background-image: url("../svg/original/synergy_snrg.svg"); }
+
+.cc.synergy-alt, .cc.snrg-alt {
+  background-image: url("../svg/alt/synergy_snrg-alt.svg"); }
+
+.cc.tether, .cc.usdt {
+  background-image: url("../svg/original/tether_usdt.svg"); }
+
+.cc.tether-alt, .cc.usdt-alt {
+  background-image: url("../svg/alt/tether_usdt-alt.svg"); }
+
+.cc.tezos, .cc.xtz {
+  background-image: url("../svg/original/tezos_xtz.svg"); }
+
+.cc.tezos-alt, .cc.xtz-alt {
+  background-image: url("../svg/alt/tezos_xtz-alt.svg"); }
+
+.cc.transfercoin, .cc.tx {
+  background-image: url("../svg/original/transfercoin_tx.svg"); }
+
+.cc.transfercoin-alt, .cc.tx-alt {
+  background-image: url("../svg/alt/transfercoin_tx-alt.svg"); }
+
+.cc.triggers, .cc.trig {
+  background-image: url("../svg/original/triggers_trig.svg"); }
+
+.cc.triggers-alt, .cc.trig-alt {
+  background-image: url("../svg/alt/triggers_trig-alt.svg"); }
+
+.cc.tron, .cc.trx {
+  background-image: url("../svg/original/tron_trx.svg"); }
+
+.cc.tron-alt, .cc.trx-alt {
+  background-image: url("../svg/alt/tron_trx-alt.svg"); }
+
+.cc.ubiq, .cc.ubq {
+  background-image: url("../svg/original/ubiq_ubq.svg"); }
+
+.cc.ubiq-alt, .cc.ubq-alt {
+  background-image: url("../svg/alt/ubiq_ubq-alt.svg"); }
+
+.cc.verge, .cc.xvg {
+  background-image: url("../svg/original/verge_xvg.svg"); }
+
+.cc.verge-alt, .cc.xvg-alt {
+  background-image: url("../svg/alt/verge_xvg-alt.svg"); }
+
+.cc.vericoin, .cc.vrc {
+  background-image: url("../svg/original/vericoin_vrc.svg"); }
+
+.cc.vericoin-alt, .cc.vrc-alt {
+  background-image: url("../svg/alt/vericoin_vrc-alt.svg"); }
+
+.cc.veritaseum, .cc.veri {
+  background-image: url("../svg/original/veritaseum_veri.svg"); }
+
+.cc.veritaseum-alt, .cc.veri-alt {
+  background-image: url("../svg/alt/veritaseum_veri-alt.svg"); }
+
+.cc.vpncoin, .cc.vash {
+  background-image: url("../svg/original/vpncoin_vash.svg"); }
+
+.cc.vpncoin-alt, .cc.vash-alt {
+  background-image: url("../svg/alt/vpncoin_vash-alt.svg"); }
+
+.cc.waves, .cc.waves {
+  background-image: url("../svg/original/waves_waves.svg"); }
+
+.cc.waves-alt, .cc.waves-alt {
+  background-image: url("../svg/alt/waves_waves-alt.svg"); }
+
+.cc.zcash, .cc.zec {
+  background-image: url("../svg/original/zcash_zec.svg"); }
+
+.cc.zcash-alt, .cc.zec-alt {
+  background-image: url("../svg/alt/zcash_zec-alt.svg"); }
+
+.cc.zcoin, .cc.xzc {
+  background-image: url("../svg/original/zcoin_xzc.svg"); }
+
+.cc.zcoin-alt, .cc.xzc-alt {
+  background-image: url("../svg/alt/zcoin_xzc-alt.svg"); }
+
+.cc.zeitcoin, .cc.zeit {
+  background-image: url("../svg/original/zeitcoin_zeit.svg"); }
+
+.cc.zeitcoin-alt, .cc.zeit-alt {
+  background-image: url("../svg/alt/zeitcoin_zeit-alt.svg"); }
+
+.cc.zencash, .cc.zen {
+  background-image: url("../svg/original/zencash_zen.svg"); }
+
+.cc.zencash-alt, .cc.zen-alt {
+  background-image: url("../svg/alt/zencash_zen-alt.svg"); }

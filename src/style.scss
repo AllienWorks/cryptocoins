@@ -1,0 +1,85 @@
+*,
+*:before,
+*:after  {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-touch-callout: none;
+}
+
+html, 
+body {
+    background-color: #eaeaea;
+    font-family: -apple-system, "Helvetica Neue", "Segoe UI", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+body {
+    margin: 0;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 24px;
+}
+
+.cc {
+    //background: transparent url() no-repeat center center/contain;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 85%;
+    position: relative;
+    height: 192px;
+    width: 16.6666666667%;
+    margin-bottom: 24px;
+    
+    @media screen and (max-width: 1005px) {
+        width: 25%;
+    }
+    
+    @media screen and (max-width: 800px) {
+        width: 33.3333333333%;
+    }
+    
+    > span {
+        text-transform: uppercase;
+        position: absolute;
+        bottom: -12px;
+        left: 0;
+        font-size: 10px;
+        width: 100%;
+        font-weight: 600;
+    }
+    
+}
+
+
+@import "coins";
+
+@each $coin in $coins {
+    $name: str-slice($coin, 1, str-index($coin, "_")-1);
+    $symbol: str-slice($coin, str-index($coin, "_")+1, str-length($coin));
+    .cc.#{$name}, .cc.#{$symbol} {
+        background-image: url("../svg/original/#{$coin}.svg");
+    }
+    .cc.#{$name}-alt, .cc.#{$symbol}-alt {
+        background-image: url("../svg/alt/#{$coin}-alt.svg");
+    }
+}
+
