@@ -27,6 +27,7 @@ There are many ways/formats how to use Cryptocoins. The fastest and recommended 
 * [Webfont version](https://github.com/allienworks/cryptocoins/wiki/Webfont-version) – ideal when you want to include all icons at once
     - _Pro tip:_ [Learn how to generate icon webfonts](https://allien.work/blog/howto-generate-icon-webfont) – it's even better when you only include those you really need
 * NPM package – `npm i cryptocoins-icons`
+* Both [svg icons](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=SVG) and [the webfont](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=webfont) are also available on [jsDelivr CDN](https://www.jsdelivr.com/package/npm/cryptocoins-icons)
 
 #### 3rd party Packages
 
