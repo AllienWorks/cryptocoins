@@ -1085,66 +1085,70 @@
   content: "\E10A";
 }
 
-.cc.XPM-alt::before {
+.cc.XMY::before {
   content: "\E10B";
 }
 
-.cc.XPM::before {
+.cc.XPM-alt::before {
   content: "\E10C";
 }
 
-.cc.XRP-alt::before {
+.cc.XPM::before {
   content: "\E10D";
 }
 
-.cc.XRP::before {
+.cc.XRP-alt::before {
   content: "\E10E";
 }
 
-.cc.XTZ-alt::before {
+.cc.XRP::before {
   content: "\E10F";
 }
 
-.cc.XTZ::before {
+.cc.XTZ-alt::before {
   content: "\E110";
 }
 
-.cc.XVG-alt::before {
+.cc.XTZ::before {
   content: "\E111";
 }
 
-.cc.XVG::before {
+.cc.XVG-alt::before {
   content: "\E112";
 }
 
-.cc.XZC-alt::before {
+.cc.XVG::before {
   content: "\E113";
 }
 
-.cc.XZC::before {
+.cc.XZC-alt::before {
   content: "\E114";
 }
 
-.cc.YBC-alt::before {
+.cc.XZC::before {
   content: "\E115";
 }
 
-.cc.YBC::before {
+.cc.YBC-alt::before {
   content: "\E116";
 }
 
-.cc.ZEC-alt::before {
+.cc.YBC::before {
   content: "\E117";
 }
 
-.cc.ZEC::before {
+.cc.ZEC-alt::before {
   content: "\E118";
 }
 
-.cc.ZEIT-alt::before {
+.cc.ZEC::before {
   content: "\E119";
 }
 
-.cc.ZEIT::before {
+.cc.ZEIT-alt::before {
   content: "\E11A";
+}
+
+.cc.ZEIT::before {
+  content: "\E11B";
 }
