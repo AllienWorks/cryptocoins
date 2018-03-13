@@ -48,6 +48,11 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 **This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, [please donate](https://allien.work/donate). Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
 
 
+## For Contributors
+
+Please see [Contributing guidelines](CONTRIBUTING.md) before submitting your PRs, thanks!
+
+
 ## Author
 
 **Martin Allien**
