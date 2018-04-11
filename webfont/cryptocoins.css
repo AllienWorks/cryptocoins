@@ -921,11 +921,11 @@
   content: "\E0E1";
 }
 
-.cc.STR-alt::before {
+.cc.XLM-alt::before {
   content: "\E0E2";
 }
 
-.cc.STR::before {
+.cc.XLM::before {
   content: "\E0E3";
 }
 
