@@ -20,7 +20,13 @@ var aliases = {
   BC: ['BLK'],
   'BC-alt': ['BLK-alt'],
   BCH: ['BCC'],
-  'BCH-alt': ['BCC-alt']
+  'BCH-alt': ['BCC-alt'],
+  'NBT': ['USNBT'],
+  'STEEM': ['SBD'],
+  'NEO': ['GAS'],
+  'SIA': ['SC'],
+  'SJCX': ['STORJ'],
+  'STR': ['XLM']
 }
 
 
