@@ -613,6 +613,10 @@
   content: "\E090";
 }
 
+.cc.Bitmark::before {
+  content: "\E090";
+}
+
 .cc.MCO-alt::before {
   content: "\E091";
 }

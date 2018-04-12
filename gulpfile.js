@@ -26,7 +26,8 @@ var aliases = {
   'NEO': ['GAS'],
   'SIA': ['SC'],
   'SJCX': ['STORJ'],
-  'STR': ['XLM']
+  'STR': ['XLM'],
+  'MARKS': ['Bitmark']
 }
 
 
