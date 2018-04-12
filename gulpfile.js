@@ -16,6 +16,13 @@ var iconfontCss = require('gulp-iconfont-css');
 
 var fontName = 'cryptocoins';
 
+var aliases = {
+  BC: ['BLK'],
+  'BC-alt': ['BLK-alt'],
+  BCH: ['BCC'],
+  'BCH-alt': ['BCC-alt']
+}
+
 
 /* ------------------------------------ *\
     Paths
@@ -51,7 +58,8 @@ gulp.task('webfont', function (cb) {
       path: 'src/icons-template.css',
       targetPath: 'cryptocoins.css',
       fontPath: '',
-      cssClass: 'cc'
+      cssClass: 'cc',
+      aliases: aliases
     }),
     iconfont({
       fontName: fontName,
