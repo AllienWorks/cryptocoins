@@ -3,3 +3,4 @@ node_modules/*
 
 # NPM lock file
 package-lock.json
+yarn.lock
