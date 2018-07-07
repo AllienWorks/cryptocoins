@@ -1,2 +1,3 @@
 # NPM deps
 node_modules/*
+yarn.lock
