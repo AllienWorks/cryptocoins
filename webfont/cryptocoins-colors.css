@@ -6,6 +6,7 @@
 .ARCH { color: #002652; }
 .ARDR { color: #1162a1; }
 .ARK { color: #F70000; }
+.AST { color: #18F18F; }
 .AUR { color: #136c5e; }
 .BANX { color: #225BA6; }
 .BAT { color: #9e1f63; }
@@ -15,6 +16,7 @@
 .BCY { color: #123A5A; }
 .BELA { color: #009EF9; }
 .BFT { color: #4fc3f7; }
+.BLZ { color: #6BE6BE }
 .BRK { color: #194fa0; }
 .BRX { color: #a8c300; }
 .BSD { color: #1186E7; }
@@ -49,6 +51,7 @@
 .FLO { color: #1358C8; }
 .FRK { color: #0633cd; }
 .FTC { color: #679EF1; }
+.FUN { color: #EF3A5C; }
 .GAME { color: #ed1b24; }
 .GBYTE { color: #2C3E50; }
 .GDC { color: #E9A226; }
@@ -81,15 +84,18 @@
 .MONA { color: #a99364; }
 .MRC { color: #4279bd; }
 .MSC { color: #1D4983; }
+.MTL { color: #242424; }
 .MTR { color: #b92429; }
 .MUE { color: #f5a10e; }
 .NAV { color: #7D59B5; }
+.MYST { color: #f5a10e; }
 .NBT { color: #FFC93D; }
 .NEO { color: #58BF00; }
 .NEOS { color: #1d1d1b; }
 .NEU { color: #2983c0; }
 .NLG { color: #003E7E; }
 .NMC { color: #6787B7; }
+.NMR { color: #8DE8DE; }
 .NOTE { color: #42daff; }
 .NVC { color: #ecab41; }
 .NXT { color: #008FBB; }
@@ -113,6 +119,7 @@
 .RDD { color: #ED1C24; }
 .REP { color: #40a2cb; }
 .RIC { color: #60E4DD; }
+.RHOC { color: #C26C26; }
 .RISE { color: #43CEA2; }
 .SALT { color: #373C43; }
 .SAR { color: #1B72B8; }
