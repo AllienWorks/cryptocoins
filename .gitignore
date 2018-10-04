@@ -1,2 +1,6 @@
 # NPM deps
 node_modules/*
+
+# NPM lock file
+package-lock.json
+yarn.lock

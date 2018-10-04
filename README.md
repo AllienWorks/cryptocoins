@@ -27,6 +27,7 @@ There are many ways/formats how to use Cryptocoins. The fastest and recommended 
 * [Webfont version](https://github.com/allienworks/cryptocoins/wiki/Webfont-version) – ideal when you want to include all icons at once
     - _Pro tip:_ [Learn how to generate icon webfonts](https://allien.work/blog/howto-generate-icon-webfont) – it's even better when you only include those you really need
 * NPM package – `npm i cryptocoins-icons`
+* Both [svg icons](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=SVG) and [the webfont](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=webfont) are also available on [jsDelivr CDN](https://www.jsdelivr.com/package/npm/cryptocoins-icons)
 
 #### 3rd party Packages
 
@@ -47,6 +48,11 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 **This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, [please donate](https://allien.work/donate). Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
 
 
+## For Contributors
+
+Please see [Contributing guidelines](CONTRIBUTING.md) before submitting your PRs, thanks!
+
+
 ## Author
 
 **Martin Allien**
@@ -62,6 +68,7 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 
 | Version | Changes |
 | :------ | :------ |
+| **2.8** | community update: @nsuva added BitcoinPrivate (BTCP), @bradrisse added BCY, BELA, BURST, Civic (CVC), Einsteinium (EMC2), Expanse (EXP), FLDC, HUC, MARKS (BTM), Navcoin (NAV), PASC, RIC, Viacoin (VIA), XBC, XVC, 0x (ZRX) and updated Lisk (LSK), @emilkarl added Myriad (XMY), @AdRock952 added AST, BLZ, FUN, MTL, MYST, NMR, RHOC + updated Stellar (STR → XLM) |
 | **2.7** | contributor @quoid added Ark (ARK), Byteball (GBYTE), Bytom (BTM), Cardano (ADA), QTUM (QTUM), SALT (SALT), Zcoin (XZC) – thanks much! + correctly renamed LISK → LSK and BCC → BCH |
 | **2.6** | fixed webfonts (again) & added webfont demo file, icons: added Bitcoin Cash (BCC), Decent (DCT), EOS (EOS), Golos (GOLOS), Monaco (MCO), NEO (NEO), OmiseGO (OMG), Particl (PART), Tezos (XTZ) |
 | **2.5** | added Basic Attention Token (BAT), IOTA (IOTA), Gnosis (GNO), Radium (RADS) |
