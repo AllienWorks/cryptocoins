@@ -5,11 +5,13 @@
 <!--link rel="stylesheet" href="webfont/cryptocoins-colors.css"-->
 
 
-# Cryptocoins Webfont Demo
+# Demo
+
+Overview of all included coins/icons.
 
 Check the HTML if you're not sure how to include the icons to your project.
 
-Don't forget that every icon is available as a separate SVG file as well.
+Don't forget that every icon is available as a separate SVG file (in `SVG/` folder) as well.
 
 <div class="icons">
    <h2>A</h2>
