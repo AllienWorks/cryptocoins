@@ -5,7 +5,7 @@ Available install options:
 - [npm](#npm)
 - [SVG icons](#svg-icons)
 - [Webfont version](#webfont-version)
-- [CDN](#CDN)
+- [CDN](#cdn)
 
 ## npm
 

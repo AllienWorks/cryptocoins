@@ -8,25 +8,26 @@
 
 Available in webfont & SVG format for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
 
-----
+Quick links: **[Demo](docs/icons-demo)** • **[Installation](docs/installation)** • [Contributing Guidelines](CONTRIBUTING.md) • [Changelog](docs/changelog.md)
 
 ![Cryptocoins Preview](docs/cryptocoins-preview.png)
 
+----
+
 ## Docs & Demo
 
-* **Demo**: [Overview of all icons](docs/icons-demo.md) contains simple webfont-based demo
+* **Demo**: [Overview of all icons](docs/icons-demo) contains simple webfont-based demo
 * **Download**: clone or [download ZIP](https://github.com/allienworks/cryptocoins/archive/master.zip) directly from GitHub
 
 
 ## Installation
 
-There are many ways/formats how to use Cryptocoins. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
+There are many ways/formats how to use Cryptocoins – read [complete installation guide](docs/installation) if you need any help.
 
-* **[via SVG](https://github.com/allienworks/cryptocoins/wiki/SVG-version)** `recommended` – when you need just a few icons in your project
-* [Webfont version](https://github.com/allienworks/cryptocoins/wiki/Webfont-version) – ideal when you want to include all icons at once
-    - _Pro tip:_ [Learn how to generate icon webfonts](https://allien.work/dev-design/2017/01/03/how-to-generate-icon-webfont/) – it's even better when you only include those you really need
-* NPM package – `npm i cryptocoins-icons`
-* Both [SVG icons](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=SVG) and [the webfont](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=webfont) are also available on [jsDelivr CDN](https://www.jsdelivr.com/package/npm/cryptocoins-icons)
+* **[SVG images](https://github.com/allienworks/cryptocoins/wiki/SVG-version)**
+* **[Webfont](https://github.com/allienworks/cryptocoins/wiki/Webfont-version)** version
+* **[npm package](https://www.npmjs.com/package/cryptocoins-icons)** – `npm i cryptocoins-icons`
+* **[jsDelivr CDN](https://www.jsdelivr.com/package/npm/cryptocoins-icons)**
 
 #### 3rd party Packages
 
@@ -49,7 +50,7 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 
 ## For Contributors
 
-Please see [Contributing guidelines](CONTRIBUTING.md) before submitting your PRs, thanks!
+Please see [Contributing guidelines](CONTRIBUTING.md) before submitting your PRs, thanks! PRs not following the Guidelines won't be accepted.
 
 
 ## Author
