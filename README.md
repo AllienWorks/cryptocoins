@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/AllienWorks/cryptocoins.svg?branch=master)](https://travis-ci.org/AllienWorks/cryptocoins)
 [![npm version](https://badge.fury.io/js/cryptocoins-icons.svg)](https://badge.fury.io/js/cryptocoins-icons)
+[![jsDelivr hits/month](https://data.jsdelivr.com/v1/package/npm/cryptocoins-icons/badge)](https://www.jsdelivr.com/package/npm/cryptocoins-icons)
 
 Available in webfont & SVG format for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
 
@@ -23,9 +24,9 @@ There are many ways/formats how to use Cryptocoins. The fastest and recommended 
 
 * **[via SVG](https://github.com/allienworks/cryptocoins/wiki/SVG-version)** `recommended` – when you need just a few icons in your project
 * [Webfont version](https://github.com/allienworks/cryptocoins/wiki/Webfont-version) – ideal when you want to include all icons at once
-    - _Pro tip:_ [Learn how to generate icon webfonts](https://allien.work/blog/howto-generate-icon-webfont) – it's even better when you only include those you really need
+    - _Pro tip:_ [Learn how to generate icon webfonts](https://allien.work/dev-design/2017/01/03/how-to-generate-icon-webfont/) – it's even better when you only include those you really need
 * NPM package – `npm i cryptocoins-icons`
-* Both [svg icons](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=SVG) and [the webfont](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=webfont) are also available on [jsDelivr CDN](https://www.jsdelivr.com/package/npm/cryptocoins-icons)
+* Both [SVG icons](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=SVG) and [the webfont](https://www.jsdelivr.com/package/npm/cryptocoins-icons?path=webfont) are also available on [jsDelivr CDN](https://www.jsdelivr.com/package/npm/cryptocoins-icons)
 
 #### 3rd party Packages
 
@@ -43,7 +44,7 @@ Initial release contains just a fraction of Altcoins. If you're missing your coi
 3. _(optional)_ you can include HEX code of the main color used in coin's branding and bitcointalk thread link (not mandatory, but saves me time)
 4. (optional) you can notify me on [@AllienWorks](https://twitter.com/AllienWorks) Twitter (also, helps spreading the word)
 
-**This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, [please donate](https://allien.work/donate). Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
+**This is all completely voluntary work**, so if you want to support my efforts _or_ speed up the addition of your coin, [please donate](https://allien.work/about.html#donate). Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards).
 
 
 ## For Contributors
@@ -59,7 +60,7 @@ Please see [Contributing guidelines](CONTRIBUTING.md) before submitting your PRs
 * Keybase/contact: [martin_allien](https://keybase.io/martin_allien)
 * Twitter: [@AllienWorks](https://twitter.com/AllienWorks)
 
-> [Tip me crypto](https://allien.work/donate) and **support further development**!
+> [Tip me crypto](https://allien.work/about.html#donate) and **support further development**!
 
 
 ## Updates
