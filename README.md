@@ -8,7 +8,7 @@
 
 Available in webfont & SVG format for taking advantage of small file sizes and unlimited scalability, Cryptocoins are perfect for usage on the web – right where they belong. Use them all or just the ones you need.
 
-Quick links: **[Demo](icons-demo)** • **[Installation](docs/installation)** • [Contributing Guidelines](CONTRIBUTING.md) • [Changelog](docs/changelog.md)
+Quick links: **[Demo](icons-demo.html)** • **[Installation](docs/installation.md)** • [Contributing Guidelines](CONTRIBUTING.md) • [Changelog](docs/changelog.md)
 
 ![Cryptocoins Preview](docs/cryptocoins-preview.png)
 
@@ -16,7 +16,7 @@ Quick links: **[Demo](icons-demo)** • **[Installation](docs/installation)** �
 
 ## Docs & Demo
 
-* **Demo**: [Overview of all icons](icons-demo) contains simple webfont-based demo
+* **Demo**: [Overview of all icons](icons-demo.html) contains simple webfont-based demo
 * **Download**: clone or [download ZIP](https://github.com/allienworks/cryptocoins/archive/master.zip) directly from GitHub
 
 
