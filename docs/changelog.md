@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.10
+- @pinknumbat added SNAX token (SNAX)
+
 ## 2.9
 - @edkf added Binance Coin (BNB), Bitcoin Gold (BTG), HShare (HSR), ICON (ICX), Populous (PPT), Status (SNT), Veritaseum (VERI), VeChain (VET), TRON (TRX)
 
