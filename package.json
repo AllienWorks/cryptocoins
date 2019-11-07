@@ -13,10 +13,11 @@
     "icon"
   ],
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-iconfont": "^8.0.1",
+    "gulp": "^4.0.2",
+    "gulp-iconfont": "^10.0.3",
     "gulp-iconfont-css": "https://github.com/bradrisse/gulp-iconfont-css.git",
     "gulp-svgmin": "^1.2.4",
+    "lodash": "^4.17.15",
     "pump": "^1.0.2"
   },
   "repository": {
