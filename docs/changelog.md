@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.9.1
+- @dantrevino add Blockstack Stacks token (STX)
+
 ## 2.9
 - @edkf added Binance Coin (BNB), Bitcoin Gold (BTG), HShare (HSR), ICON (ICX), Populous (PPT), Status (SNT), Veritaseum (VERI), VeChain (VET), TRON (TRX)
 

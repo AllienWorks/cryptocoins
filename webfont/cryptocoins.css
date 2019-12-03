@@ -1117,199 +1117,199 @@
   content: "\E108";
 }
 
-.cc.SWIFT-alt::before {
+.cc.STX::before {
   content: "\E109";
 }
 
-.cc.SWIFT::before {
+.cc.SWIFT-alt::before {
   content: "\E10A";
 }
 
-.cc.SYNC-alt::before {
+.cc.SWIFT::before {
   content: "\E10B";
 }
 
-.cc.SYNC::before {
+.cc.SYNC-alt::before {
   content: "\E10C";
 }
 
-.cc.SYS-alt::before {
+.cc.SYNC::before {
   content: "\E10D";
 }
 
-.cc.SYS::before {
+.cc.SYS-alt::before {
   content: "\E10E";
 }
 
-.cc.TRIG-alt::before {
+.cc.SYS::before {
   content: "\E10F";
 }
 
-.cc.TRIG::before {
+.cc.TRIG-alt::before {
   content: "\E110";
 }
 
-.cc.TRX::before {
+.cc.TRIG::before {
   content: "\E111";
 }
 
-.cc.TX-alt::before {
+.cc.TRX::before {
   content: "\E112";
 }
 
-.cc.TX::before {
+.cc.TX-alt::before {
   content: "\E113";
 }
 
-.cc.UBQ-alt::before {
+.cc.TX::before {
   content: "\E114";
 }
 
-.cc.UBQ::before {
+.cc.UBQ-alt::before {
   content: "\E115";
 }
 
-.cc.UNITY-alt::before {
+.cc.UBQ::before {
   content: "\E116";
 }
 
-.cc.UNITY::before {
+.cc.UNITY-alt::before {
   content: "\E117";
 }
 
-.cc.USDT-alt::before {
+.cc.UNITY::before {
   content: "\E118";
 }
 
-.cc.USDT::before {
+.cc.USDT-alt::before {
   content: "\E119";
 }
 
-.cc.VERI::before {
+.cc.USDT::before {
   content: "\E11A";
 }
 
-.cc.VET::before {
+.cc.VERI::before {
   content: "\E11B";
 }
 
-.cc.VIA-alt::before {
+.cc.VET::before {
   content: "\E11C";
 }
 
-.cc.VIA::before {
+.cc.VIA-alt::before {
   content: "\E11D";
 }
 
-.cc.VIOR-alt::before {
+.cc.VIA::before {
   content: "\E11E";
 }
 
-.cc.VIOR::before {
+.cc.VIOR-alt::before {
   content: "\E11F";
 }
 
-.cc.VNL-alt::before {
+.cc.VIOR::before {
   content: "\E120";
 }
 
-.cc.VNL::before {
+.cc.VNL-alt::before {
   content: "\E121";
 }
 
-.cc.VPN-alt::before {
+.cc.VNL::before {
   content: "\E122";
 }
 
-.cc.VPN::before {
+.cc.VPN-alt::before {
   content: "\E123";
 }
 
-.cc.VRC-alt::before {
+.cc.VPN::before {
   content: "\E124";
 }
 
-.cc.VRC::before {
+.cc.VRC-alt::before {
   content: "\E125";
 }
 
-.cc.VTC-alt::before {
+.cc.VRC::before {
   content: "\E126";
 }
 
-.cc.VTC::before {
+.cc.VTC-alt::before {
   content: "\E127";
 }
 
-.cc.WAVES-alt::before {
+.cc.VTC::before {
   content: "\E128";
 }
 
-.cc.WAVES::before {
+.cc.WAVES-alt::before {
   content: "\E129";
 }
 
-.cc.XAI-alt::before {
+.cc.WAVES::before {
   content: "\E12A";
 }
 
-.cc.XAI::before {
+.cc.XAI-alt::before {
   content: "\E12B";
 }
 
-.cc.XBC::before {
+.cc.XAI::before {
   content: "\E12C";
 }
 
-.cc.XBS-alt::before {
+.cc.XBC::before {
   content: "\E12D";
 }
 
-.cc.XBS::before {
+.cc.XBS-alt::before {
   content: "\E12E";
 }
 
-.cc.XCP-alt::before {
+.cc.XBS::before {
   content: "\E12F";
 }
 
-.cc.XCP::before {
+.cc.XCP-alt::before {
   content: "\E130";
 }
 
-.cc.XEM-alt::before {
+.cc.XCP::before {
   content: "\E131";
 }
 
-.cc.XEM::before {
+.cc.XEM-alt::before {
   content: "\E132";
 }
 
-.cc.XLM-alt::before {
+.cc.XEM::before {
   content: "\E133";
 }
 
-.cc.XLM::before {
+.cc.XLM-alt::before {
   content: "\E134";
 }
 
-.cc.XMR::before {
+.cc.XLM::before {
   content: "\E135";
 }
 
-.cc.XMY::before {
+.cc.XMR::before {
   content: "\E136";
 }
 
-.cc.XPM-alt::before {
+.cc.XMY::before {
   content: "\E137";
 }
 
-.cc.XPM::before {
+.cc.XPM-alt::before {
   content: "\E138";
 }
 
-.cc.XRB::before {
+.cc.XPM::before {
   content: "\E139";
 }
 
