@@ -1077,310 +1077,314 @@
   content: "\E0FF";
 }
 
-.cc.SNRG-alt::before {
+.cc.SNAX-alt::before {
   content: "\E100";
 }
 
-.cc.SNRG::before {
+.cc.SNAX::before {
   content: "\E101";
 }
 
-.cc.SNT::before {
+.cc.SNRG-alt::before {
   content: "\E102";
 }
 
-.cc.START-alt::before {
+.cc.SNRG::before {
   content: "\E103";
 }
 
-.cc.START::before {
+.cc.SNT::before {
   content: "\E104";
 }
 
-.cc.STEEM-alt::before {
+.cc.START-alt::before {
   content: "\E105";
 }
 
-.cc.STEEM::before {
+.cc.START::before {
   content: "\E106";
 }
 
-.cc.SBD::before {
-  content: "\E106";
-}
-
-.cc.STRAT-alt::before {
+.cc.STEEM-alt::before {
   content: "\E107";
 }
 
-.cc.STRAT::before {
+.cc.STEEM::before {
   content: "\E108";
 }
 
-.cc.SWIFT-alt::before {
+.cc.SBD::before {
+  content: "\E108";
+}
+
+.cc.STRAT-alt::before {
   content: "\E109";
 }
 
-.cc.SWIFT::before {
+.cc.STRAT::before {
   content: "\E10A";
 }
 
-.cc.SYNC-alt::before {
+.cc.SWIFT-alt::before {
   content: "\E10B";
 }
 
-.cc.SYNC::before {
+.cc.SWIFT::before {
   content: "\E10C";
 }
 
-.cc.SYS-alt::before {
+.cc.SYNC-alt::before {
   content: "\E10D";
 }
 
-.cc.SYS::before {
+.cc.SYNC::before {
   content: "\E10E";
 }
 
-.cc.TRIG-alt::before {
+.cc.SYS-alt::before {
   content: "\E10F";
 }
 
-.cc.TRIG::before {
+.cc.SYS::before {
   content: "\E110";
 }
 
-.cc.TRX::before {
+.cc.TRIG-alt::before {
   content: "\E111";
 }
 
-.cc.TX-alt::before {
+.cc.TRIG::before {
   content: "\E112";
 }
 
-.cc.TX::before {
+.cc.TRX::before {
   content: "\E113";
 }
 
-.cc.UBQ-alt::before {
+.cc.TX-alt::before {
   content: "\E114";
 }
 
-.cc.UBQ::before {
+.cc.TX::before {
   content: "\E115";
 }
 
-.cc.UNITY-alt::before {
+.cc.UBQ-alt::before {
   content: "\E116";
 }
 
-.cc.UNITY::before {
+.cc.UBQ::before {
   content: "\E117";
 }
 
-.cc.USDT-alt::before {
+.cc.UNITY-alt::before {
   content: "\E118";
 }
 
-.cc.USDT::before {
+.cc.UNITY::before {
   content: "\E119";
 }
 
-.cc.VERI::before {
+.cc.USDT-alt::before {
   content: "\E11A";
 }
 
-.cc.VET::before {
+.cc.USDT::before {
   content: "\E11B";
 }
 
-.cc.VIA-alt::before {
+.cc.VERI::before {
   content: "\E11C";
 }
 
-.cc.VIA::before {
+.cc.VET::before {
   content: "\E11D";
 }
 
-.cc.VIOR-alt::before {
+.cc.VIA-alt::before {
   content: "\E11E";
 }
 
-.cc.VIOR::before {
+.cc.VIA::before {
   content: "\E11F";
 }
 
-.cc.VNL-alt::before {
+.cc.VIOR-alt::before {
   content: "\E120";
 }
 
-.cc.VNL::before {
+.cc.VIOR::before {
   content: "\E121";
 }
 
-.cc.VPN-alt::before {
+.cc.VNL-alt::before {
   content: "\E122";
 }
 
-.cc.VPN::before {
+.cc.VNL::before {
   content: "\E123";
 }
 
-.cc.VRC-alt::before {
+.cc.VPN-alt::before {
   content: "\E124";
 }
 
-.cc.VRC::before {
+.cc.VPN::before {
   content: "\E125";
 }
 
-.cc.VTC-alt::before {
+.cc.VRC-alt::before {
   content: "\E126";
 }
 
-.cc.VTC::before {
+.cc.VRC::before {
   content: "\E127";
 }
 
-.cc.WAVES-alt::before {
+.cc.VTC-alt::before {
   content: "\E128";
 }
 
-.cc.WAVES::before {
+.cc.VTC::before {
   content: "\E129";
 }
 
-.cc.XAI-alt::before {
+.cc.WAVES-alt::before {
   content: "\E12A";
 }
 
-.cc.XAI::before {
+.cc.WAVES::before {
   content: "\E12B";
 }
 
-.cc.XBC::before {
+.cc.XAI-alt::before {
   content: "\E12C";
 }
 
-.cc.XBS-alt::before {
+.cc.XAI::before {
   content: "\E12D";
 }
 
-.cc.XBS::before {
+.cc.XBC::before {
   content: "\E12E";
 }
 
-.cc.XCP-alt::before {
+.cc.XBS-alt::before {
   content: "\E12F";
 }
 
-.cc.XCP::before {
+.cc.XBS::before {
   content: "\E130";
 }
 
-.cc.XEM-alt::before {
+.cc.XCP-alt::before {
   content: "\E131";
 }
 
-.cc.XEM::before {
+.cc.XCP::before {
   content: "\E132";
 }
 
-.cc.XLM-alt::before {
+.cc.XEM-alt::before {
   content: "\E133";
 }
 
-.cc.XLM::before {
+.cc.XEM::before {
   content: "\E134";
 }
 
-.cc.XMR::before {
+.cc.XLM-alt::before {
   content: "\E135";
 }
 
-.cc.XMY::before {
+.cc.XLM::before {
   content: "\E136";
 }
 
-.cc.XPM-alt::before {
+.cc.XMR::before {
   content: "\E137";
 }
 
-.cc.XPM::before {
+.cc.XMY::before {
   content: "\E138";
 }
 
-.cc.XRB::before {
+.cc.XPM-alt::before {
   content: "\E139";
 }
 
-.cc.XRP-alt::before {
+.cc.XPM::before {
   content: "\E13A";
 }
 
-.cc.XRP::before {
+.cc.XRP-alt::before {
   content: "\E13B";
 }
 
-.cc.XTZ-alt::before {
+.cc.XRP::before {
   content: "\E13C";
 }
 
-.cc.XTZ::before {
+.cc.XTZ-alt::before {
   content: "\E13D";
 }
 
-.cc.XVC-alt::before {
+.cc.XTZ::before {
   content: "\E13E";
 }
 
-.cc.XVC::before {
+.cc.XVC-alt::before {
   content: "\E13F";
 }
 
-.cc.XVG-alt::before {
+.cc.XVC::before {
   content: "\E140";
 }
 
-.cc.XVG::before {
+.cc.XVG-alt::before {
   content: "\E141";
 }
 
-.cc.XZC-alt::before {
+.cc.XVG::before {
   content: "\E142";
 }
 
-.cc.XZC::before {
+.cc.XZC-alt::before {
   content: "\E143";
 }
 
-.cc.YBC-alt::before {
+.cc.XZC::before {
   content: "\E144";
 }
 
-.cc.YBC::before {
+.cc.YBC-alt::before {
   content: "\E145";
 }
 
-.cc.ZEC-alt::before {
+.cc.YBC::before {
   content: "\E146";
 }
 
-.cc.ZEC::before {
+.cc.ZEC-alt::before {
   content: "\E147";
 }
 
-.cc.ZEIT-alt::before {
+.cc.ZEC::before {
   content: "\E148";
 }
 
-.cc.ZEIT::before {
+.cc.ZEIT-alt::before {
   content: "\E149";
 }
 
-.cc.ZRX-alt::before {
+.cc.ZEIT::before {
   content: "\E14A";
 }
 
-.cc.ZRX::before {
+.cc.ZRX-alt::before {
   content: "\E14B";
+}
+
+.cc.ZRX::before {
+  content: "\E14C";
 }
